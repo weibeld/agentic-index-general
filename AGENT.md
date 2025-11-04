@@ -9,8 +9,8 @@ Your task is to research and format AI agent project entries in the README.md fi
 Each section should have a table with the following columns:
 
 ```markdown
-| Project | Description | Open-Source | GitHub | Type | Released |
-|---------|-------------|-------------|--------|------|----------|
+| Project | Description | Open-Source | GitHub | Runtime | Released |
+|---------|-------------|-------------|--------|---------|----------|
 ```
 
 ### Column Specifications
@@ -19,6 +19,18 @@ Each section should have a table with the following columns:
 - Format: `**[Project Name](URL)**`
 - Make the link bold
 - If there's a parent organization different from the project name, add it in parentheses: `**[Project Name](URL)** (by Organization)`
+- **CRITICAL:** Pay special attention to the exact spelling of project names, including:
+  - Capitalization (e.g., "Superdesign" not "SuperDesign", "TRAE" not "Trae")
+  - Spaces vs. hyphens (e.g., "Project Name" vs. "Project-Name")
+  - Special characters or styling
+- **To verify official spelling, check IN THIS ORDER:**
+  1. **Primary source (official website):**
+     - Copyright notice at the bottom (e.g., "©2025 TRAE. All rights reserved.")
+     - Legal documents (Terms of Service, Privacy Policy, About pages)
+     - Logo and branding as displayed on the official site
+  2. Secondary sources (news articles) - use only if primary source is unclear
+  - **NEVER** rely solely on how journalists or bloggers spell the name
+  - Primary sources are ALWAYS more authoritative than secondary sources
 
 **Description:**
 - If the unprocessed item has text after the URL (e.g., `- https://example.com: foo bar baz`), use that text as the description
@@ -41,19 +53,26 @@ Each section should have a table with the following columns:
 - Round to one decimal place for thousands (e.g., 5214 → ~5.2k, 847 → ~800, 12543 → ~12.5k)
 - If no repository: ❌
 
-**Type:**
-- Use emoji icons based on how the project is delivered:
+**Runtime:**
+- Use emoji icons based on where/how the project runs:
   - 💻 CLI: Command-line interface tool (runs in terminal)
   - 🖥️ Binary: Standalone application to install locally (e.g., desktop IDE or editor)
   - 🧩 Plugin: Extension or plugin for existing software (e.g., IDE extensions, editor plugins)
   - 🌍 Web: Web-based application (accessed through a browser)
-- If a project has multiple delivery types, include all applicable emoji icons (e.g., `💻 CLI, 🌍 Web`)
+- If a project supports multiple runtimes, include all applicable emoji icons (e.g., `💻 CLI, 🌍 Web`)
 
 **Released:**
 - Format: `[Mon YYYY](source-url)`
 - Example: `[Oct 2025](https://news.ycombinator.com/item?id=12345)`
 - Link to a reliable source documenting the release date
-- If no release date can be found after thorough research, use `Unknown` (no link)
+- **Finding approximate dates is better than "Unknown"**:
+  - Look for Product Hunt launch pages (e.g., producthunt.com/products/[name]/launches)
+  - Look for Hacker News launch posts (e.g., "Show HN" or "Launch HN" posts on news.ycombinator.com)
+  - Articles dated shortly after launch often indicate launch timeframe
+  - Multiple sources saying "recently launched" around the same time period
+  - Even if you can't find the exact date, finding the month/year is acceptable
+  - Being off by a few days or even one month is better than "Unknown"
+- Only use `Unknown` (no link) if truly no evidence of launch timeframe can be found after exhaustive research
 
 ## Research Requirements
 
@@ -61,15 +80,21 @@ For each unprocessed item, research the following:
 
 ### 1. Project Name
 - Official name of the project
+- **Verify exact spelling from primary sources:**
+  - Check copyright notice on official website (e.g., "©2025 TRAE. All rights reserved.")
+  - Check legal documents (Terms of Service, Privacy Policy)
+  - Look at logo and branding on official site
+  - Do NOT rely solely on secondary sources (news articles, blog posts)
+- Verify capitalization, spaces, and hyphens
 - Parent organization (only if different from project name)
 
-### 2. Type
-- Determine how the project is delivered to users:
+### 2. Runtime
+- Determine where/how the project runs:
   - **💻 CLI:** Runs in a terminal/command line
   - **🖥️ Binary:** Standalone desktop application to install locally (e.g., IDE, editor)
   - **🧩 Plugin:** Extension for existing software (e.g., VS Code extension, browser plugin)
   - **🌍 Web:** Web-based service accessed through a browser
-- If the project supports multiple delivery types, list all applicable types
+- If the project supports multiple runtimes, list all applicable types
 
 ### 3. Open-Source Status
 - Is the code publicly available?
@@ -82,14 +107,21 @@ For each unprocessed item, research the following:
 
 ### 5. Release Date
 - **CRITICAL:** Take extra care when researching release dates
-- You MUST find one of the following:
-  - An official launch or release announcement
-  - A reliable source like Wikipedia
-  - A source that explicitly states "released in [Month Year]" or "launched in [Month Year]"
-- Do NOT guess or infer release dates
+- **Priority: Find at least the month/year** - this is better than "Unknown"
+- Sources to check (in order of reliability):
+  1. Official launch announcements (company blog, press releases)
+  2. Product Hunt launch page (producthunt.com/products/[name]/launches)
+  3. Hacker News launch posts (search for "Show HN" or "Launch HN" on news.ycombinator.com)
+  4. Wikipedia with cited sources
+  5. News articles dated shortly after launch
+  6. Multiple sources mentioning "recently launched" around the same timeframe
+- **Inferring approximate dates is acceptable:**
+  - An article from October 2025 about a "newly launched" product → likely Oct 2025
+  - Multiple sources in early November saying "launched a few days ago" → likely late Oct or early Nov 2025
+  - Being off by a few days or even one month is acceptable
 - Do NOT use company founding dates unless explicitly stated as the release date
-- Link to the specific source where you found the date
-- If no reliable release date can be found after thorough research, use `Unknown`
+- Link to the most specific source you found (Product Hunt page > Hacker News post > news article > general reference)
+- Only use `Unknown` if absolutely no evidence of launch timeframe exists after exhaustive research
 
 ### 6. Description
 - If text exists after the URL in the bullet point, use it (with typo fixes only)
@@ -100,12 +132,19 @@ For each unprocessed item, research the following:
 ## Research Process
 
 1. **Use WebSearch** to find information about the project
-2. **Use WebFetch** to visit the project's website and documentation
+2. **Use WebFetch** to visit the project's official website:
+   - **Check copyright notice** for official spelling (e.g., "©2025 TRAE. All rights reserved.")
+   - Check Terms of Service / Privacy Policy for official company name
+   - Look at logo and branding
 3. **Verify release dates** carefully:
-   - Check Wikipedia
+   - Check Product Hunt launch page first (producthunt.com/products/[name]/launches)
+   - Check Hacker News for launch posts (search for "Show HN" or "Launch HN")
+   - Check Wikipedia with cited sources
    - Look for official blog posts or announcements
    - Search for "launched" or "released" in news articles
-   - Confirm the date from multiple sources if possible
+   - Look at article publication dates - articles about "newly launched" products indicate timeframe
+   - Multiple sources saying "recently launched" around same time indicate approximate launch date
+   - Finding month/year is better than saying "Unknown"
 4. **Check GitHub** for repository details and star counts
 
 ## Updating Existing Entries
@@ -161,8 +200,8 @@ After processing ALL sections in the README:
 ```markdown
 ## General
 
-| Project | Description | Open-Source | GitHub | Type | Released |
-|---------|-------------|-------------|--------|------|----------|
+| Project | Description | Open-Source | GitHub | Runtime | Released |
+|---------|-------------|-------------|--------|---------|----------|
 | **[ExampleTool](https://example.com/tool)** | Helps with testing. | ✅ | [user/example-tool](https://github.com/user/example-tool) (⭐️ ~3.2k) | 💻 CLI | [Mar 2024](https://github.com/user/example-tool/releases) |
 | **[AnotherTool](https://another-tool.io)** | Creates automated workflows for development teams. | ❌ | ❌ | 🌍 Web | [Jan 2025](https://news.ycombinator.com/item?id=12345) |
 
@@ -175,8 +214,8 @@ After processing ALL sections in the README:
 ```markdown
 ## General
 
-| Project | Description | Open-Source | GitHub | Type | Released |
-|---------|-------------|-------------|--------|------|----------|
+| Project | Description | Open-Source | GitHub | Runtime | Released |
+|---------|-------------|-------------|--------|---------|----------|
 | **[ExampleTool](https://example.com/tool)** | Helps with testing. | ✅ | [user/example-tool](https://github.com/user/example-tool) (⭐️ ~3.0k) | 💻 CLI | [Mar 2024](https://github.com/user/example-tool/releases) |
 
 🤖 Content researched by AI. Last updated 2025-10-15.
@@ -188,8 +227,8 @@ After processing ALL sections in the README:
 ```markdown
 ## General
 
-| Project | Description | Open-Source | GitHub | Type | Released |
-|---------|-------------|-------------|--------|------|----------|
+| Project | Description | Open-Source | GitHub | Runtime | Released |
+|---------|-------------|-------------|--------|---------|----------|
 | **[ExampleTool](https://example.com/tool)** | Helps with testing. | ✅ | [user/example-tool](https://github.com/user/example-tool) (⭐️ ~3.2k) | 💻 CLI | [Mar 2024](https://github.com/user/example-tool/releases) |
 | **[NewProject](https://newproject.com)** | Manages infrastructure deployments. | ✅ | [company/newproject](https://github.com/company/newproject) (⭐️ ~1.8k) | 🖥️ Binary | [Sep 2024](https://newproject.com/blog/launch) |
 
@@ -204,8 +243,9 @@ Note: The star count was updated from ~3.0k to ~3.2k and the date was updated to
 2. **Consistency:** Follow the exact format specifications
 3. **Neutrality:** Avoid promotional language
 4. **Completeness:** Research all required fields
-5. **Verification:** Double-check release dates with reliable sources
+5. **Verification:** Double-check release dates with reliable sources, but approximate dates (month/year) are better than "Unknown"
 6. **Timeliness:** Update all "Last updated" dates to current date when processing
+7. **Spelling:** ALWAYS verify exact project name spelling from primary sources (copyright notices, legal documents) - NEVER rely solely on secondary sources like news articles
 
 ## Important Notes
 
