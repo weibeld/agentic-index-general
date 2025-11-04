@@ -17,18 +17,10 @@ _**🤖 Content last updated 2025-11-04 by AI.**_
 
 ## Design/UI/UX
 
-| Project | Description | Open-Source | GitHub | Runtime | Released |
-|---------|-------------|-------------|--------|---------|----------|
-| **[Superdesign](https://www.superdesign.dev)** | Generates UI mockups and wireframes inside IDEs. | ✅ | [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) (⭐️ ~5.2k) | 🧩 Plugin | [Jun 2025](https://github.com/superdesigndev/superdesign) |
-| **[Stitch](https://stitch.withgoogle.com/)** (by Google) | Generates UI designs and frontend code from text prompts. | ❌ | ❌ | 🌍 Web | [May 2025](https://developers.googleblog.com/en/stitch-a-new-way-to-design-uis/) |
-
-🤖 Content researched by AI. Last updated 2025-11-04.
+- https://www.superdesign.dev
+- https://stitch.withgoogle.com/
 
 ## Sinosphere
 
-| Project | Description | Open-Source | GitHub | Runtime | Released |
-|---------|-------------|-------------|--------|---------|----------|
-| **[CodeBanana](https://www.codebanana.com/en/home)** | Collaborative coding platform with shared VMs and project-aware AI. | ❌ | ❌ | 🌍 Web | [Oct 2025](https://www.producthunt.com/products/codebanana/launches) |
-| **[TRAE](https://www.trae.ai/)** (by ByteDance) | IDE for code completion, generation, and automated development. | ❌ | ❌ | 🖥️ Binary, 🧩 Plugin, 🌍 Web | [Jan 2025](https://pandaily.com/bytedance-launches-trae-ai-coding-tool-for-developers) |
-
-🤖 Content researched by AI. Last updated 2025-11-04.
+- https://www.codebanana.com/en/home
+- https://www.trae.ai/
