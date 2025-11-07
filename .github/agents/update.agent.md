@@ -14,8 +14,8 @@ Your task is to research and format AI agent project entries in the README.md fi
 Each section should have a table with the following columns:
 
 ```markdown
-| Project | Description | Open-Source | GitHub | Runtime | Released |
-|---------|-------------|-------------|--------|---------|----------|
+| Project | Description | Open-Source | GitHub | Type | Released |
+|---------|-------------|-------------|------|------|----------|
 ```
 
 ### Column Specifications
@@ -64,13 +64,13 @@ Each section should have a table with the following columns:
 - Round to one decimal place for thousands (e.g., 5214 → ~5.2k, 847 → ~800, 12543 → ~12.5k)
 - If no repository: ❌
 
-**Runtime:**
-- Use emoji icons based on where/how the project runs:
-  - 💻 CLI: Command-line interface tool (runs in terminal)
-  - 🖥️ Binary: Standalone application to install locally (e.g., desktop IDE or editor)
-  - 🧩 Plugin: Extension or plugin for existing software (e.g., IDE extensions, editor plugins)
-  - 🌍 Web: Web-based application (accessed through a browser)
-- If a project supports multiple runtimes, include all applicable emoji icons (e.g., `💻 CLI, 🌍 Web`)
+**Type:**
+- Use emoji icons based on the type of software:
+  - 💻 CLI Tool: Command-line interface tool (runs in terminal)
+  - 📊 Desktop App: Application installed locally with graphical interface (e.g., desktop IDE or editor)
+  - 🧩 Plugin/Extension: Extension or plugin for existing software (e.g., IDE extensions, browser plugins)
+  - 🌍 Web App: Web-based application (accessed through a browser)
+- If a project supports multiple types, include all applicable emoji icons (e.g., `💻 CLI Tool, 🌍 Web App`)
 
 **Released:**
 - Format: `[Mon YYYY](source-url)`
@@ -109,18 +109,18 @@ For each unprocessed item, research the following:
   - Examples: NotebookLM is by Google, TRAE is by ByteDance
   - If parent organization exists and differs from project name, add it as "(by Organization Name)"
 
-### 2. Runtime
+### 2. Type
 - **CRITICAL:** Identify the PRIMARY/MAIN product, not auxiliary tools
   - Start with official website - what does the homepage promote?
   - Use your model knowledge - ask yourself "What is [Product Name]?"
   - Check documentation (Docs link) - look for "What is...?", "Introduction", "Quickstart" sections
-  - Example: TRAE's main product is an IDE (desktop app, plugins, web), even though they also have a separate "Trae Agent" CLI tool
-- Determine where/how the PRIMARY product runs:
-  - **💻 CLI:** Runs in a terminal/command line
-  - **🖥️ Binary:** Standalone desktop application to install locally (e.g., IDE, editor)
-  - **🧩 Plugin:** Extension for existing software (e.g., VS Code extension, browser plugin)
-  - **🌍 Web:** Web-based service accessed through a browser
-- If the PRIMARY product supports multiple runtimes, list all applicable types
+  - Example: TRAE's main product is a Desktop App IDE, even though they also have a separate "Trae Agent" CLI tool
+- Determine what TYPE the PRIMARY product is:
+  - **💻 CLI Tool:** Runs in a terminal/command line
+  - **📊 Desktop App:** Application installed locally with graphical interface (e.g., IDE, editor)
+  - **🧩 Plugin/Extension:** Extension for existing software (e.g., VS Code extension, browser plugin)
+  - **🌍 Web App:** Web-based service accessed through a browser
+- If the PRIMARY product supports multiple types, list all applicable types
 - Do NOT classify based on auxiliary/secondary tools in the ecosystem
 
 ### 3. Open-Source Status
@@ -257,10 +257,10 @@ After processing ALL sections in the README:
 ```markdown
 ## General
 
-| Project | Description | Open-Source | GitHub | Runtime | Released |
-|---------|-------------|-------------|--------|---------|----------|
-| **[ExampleTool](https://example.com/tool)** | Helps with testing. | ✅ | [user/example-tool](https://github.com/user/example-tool) (⭐️ ~3.2k) | 💻 CLI | [Mar 2024](https://github.com/user/example-tool/releases) |
-| **[AnotherTool](https://another-tool.io)** | Creates automated workflows for development teams. | ❌ | ❌ | 🌍 Web | [Jan 2025](https://news.ycombinator.com/item?id=12345) |
+| Project | Description | Open-Source | GitHub | Type | Released |
+|---------|-------------|-------------|--------|------|----------|
+| **[ExampleTool](https://example.com/tool)** | Helps with testing. | ✅ | [user/example-tool](https://github.com/user/example-tool) (⭐️ ~3.2k) | 💻 CLI Tool | [Mar 2024](https://github.com/user/example-tool/releases) |
+| **[AnotherTool](https://another-tool.io)** | Creates automated workflows for development teams. | ❌ | ❌ | 🌍 Web App | [Jan 2025](https://news.ycombinator.com/item?id=12345) |
 
 🤖 Content researched by AI. Last updated 2025-11-04.
 ```
@@ -271,9 +271,9 @@ After processing ALL sections in the README:
 ```markdown
 ## General
 
-| Project | Description | Open-Source | GitHub | Runtime | Released |
-|---------|-------------|-------------|--------|---------|----------|
-| **[ExampleTool](https://example.com/tool)** | Helps with testing. | ✅ | [user/example-tool](https://github.com/user/example-tool) (⭐️ ~3.0k) | 💻 CLI | [Mar 2024](https://github.com/user/example-tool/releases) |
+| Project | Description | Open-Source | GitHub | Type | Released |
+|---------|-------------|-------------|--------|------|----------|
+| **[ExampleTool](https://example.com/tool)** | Helps with testing. | ✅ | [user/example-tool](https://github.com/user/example-tool) (⭐️ ~3.0k) | 💻 CLI Tool | [Mar 2024](https://github.com/user/example-tool/releases) |
 
 🤖 Content researched by AI. Last updated 2025-10-15.
 
@@ -284,17 +284,17 @@ After processing ALL sections in the README:
 ```markdown
 ## General
 
-| Project | Description | Open-Source | GitHub | Runtime | Released |
-|---------|-------------|-------------|--------|---------|----------|
-| **[ExampleTool](https://example.com/tool)** | Helps with testing. | ✅ | [user/example-tool](https://github.com/user/example-tool) (⭐️ ~3.2k) | 💻 CLI | [Mar 2024](https://github.com/user/example-tool/releases) |
-| **[NewProject](https://newproject.com)** | Manages infrastructure deployments. | ✅ | [company/newproject](https://github.com/company/newproject) (⭐️ ~1.8k) | 🖥️ Binary | [Sep 2024](https://newproject.com/blog/launch) |
+| Project | Description | Open-Source | GitHub | Type | Released |
+|---------|-------------|-------------|--------|------|----------|
+| **[ExampleTool](https://example.com/tool)** | Helps with testing. | ✅ | [user/example-tool](https://github.com/user/example-tool) (⭐️ ~3.2k) | 💻 CLI Tool | [Mar 2024](https://github.com/user/example-tool/releases) |
+| **[NewProject](https://newproject.com)** | Manages infrastructure deployments. | ✅ | [company/newproject](https://github.com/company/newproject) (⭐️ ~1.8k) | 📊 Desktop App | [Sep 2024](https://newproject.com/blog/launch) |
 
 🤖 Content researched by AI. Last updated 2025-11-04.
 ```
 
 Note: The star count was updated from ~3.0k to ~3.2k and the date was updated to today.
 
-## Quality Guidlines
+## Quality Guidelines
 
 1. **Accuracy:** All information must be verified from reliable sources
 2. **Consistency:** Follow the exact format specifications
