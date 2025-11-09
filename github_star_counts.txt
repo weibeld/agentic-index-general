@@ -1,0 +1,33 @@
+GitHub Repository Star Counts
+==============================
+
+1. weibeld/ai-coding-agents
+   Star count: 0
+
+2. superdesigndev/superdesign
+   Star count: 5,237
+
+3. mem0ai/mem0
+   Star count: 42,836
+
+4. supermemoryai/supermemory
+   Star count: 13,425
+
+5. topoteretes/cognee
+   Star count: 8,222
+
+6. MemTensor/MemOS
+   Star count: 2,916
+
+7. kyegomez/swarms
+   Star count: 5,376
+
+8. xlang-ai/OpenAgents
+   Star count: 4,604
+
+9. eigent-ai/eigent
+   Star count: 2,424
+
+==============================
+Total repositories: 9
+Fetched on: 2025-11-09
