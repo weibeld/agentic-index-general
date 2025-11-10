@@ -40,7 +40,7 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[HackGPT](https://github.com/yashab-cyber/HackGpt)** | Penetration testing platform for security assessments. | ✅ | [yashab-cyber/HackGpt](https://github.com/yashab-cyber/HackGpt) (⭐️ ~250) | 💻 CLI Tool | [Aug 2025](https://github.com/yashab-cyber/HackGpt) |
+| **[HackGPT](https://github.com/yashab-cyber/HackGpt)** | Penetration testing platform for security assessments. | ✅ | [yashab-cyber/HackGpt](https://github.com/yashab-cyber/HackGpt) (⭐️ ~250) | 💻 CLI Tool, 🔌 API, 🌍 Web App | [Aug 2025](https://github.com/yashab-cyber/HackGpt) |
 
 ### Chinese Projects
 
