@@ -49,6 +49,10 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[MetaGPT](https://www.deepwisdom.ai/metagpt)** | Multi-agent framework for software development. | ✅ | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) (⭐️ ~59.3k) | 🧰 SDK | [Jun 2023](https://github.com/FoundationAgents/MetaGPT/releases) |
 | **[Propolis](https://propolis.tech/)** | Swarms of agents simulating users for testing apps. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://news.ycombinator.com/item?id=45762012) |
 
+### Data
+
+- https://www.sheet0.com/
+
 ⬆️ [Back to Contents](#contents)
 
 ### Chinese Projects
