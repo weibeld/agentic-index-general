@@ -55,6 +55,8 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 |---------|-------------|-------------|--------|------|----------|
 | **[Sheet0](https://www.sheet0.com/)** | Spreadsheet agent for automated data collection and analysis. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/sheet0) |
 
+- https://github.com/microsoft/data-formulator
+
 ⬆️ [Back to Contents](#contents)
 
 ### Chinese Projects
@@ -79,6 +81,8 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[Amazon Bedrock AgentCore Memory](https://aws.amazon.com/bedrock/agentcore/)** (by AWS) | Managed memory service for AI agents. | ❌ | ❌ | 🔌 API | [Oct 2025](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/) |
 | **[myNeutron](https://myneutron.ai/)** | Chrome extension for persistent AI memory across platforms. | ❌ | ❌ | 🧩 Plugin/Extension | [Oct 2025](https://coinedition.com/vanar-launches-myneutron-the-first-decentralized-ai-memory-layer-for-permanent-portable-ai-context/) |
 
+- https://memorilabs.ai/
+
 ### Chinese Projects
 
 | Project | Description | Open-Source | GitHub | Type | Released |
@@ -86,7 +90,6 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[MemOS](https://github.com/MemTensor/MemOS)** | Memory operating system for LLMs. | ✅ | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) (⭐️ ~2.9k) | 🧰 SDK | [Jul 2025](https://github.com/MemTensor/MemOS/releases) |
 
 ⬆️ [Back to Contents](#contents)
-
 
 ## Multi-Agent Orchestration
 
