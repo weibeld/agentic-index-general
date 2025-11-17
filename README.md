@@ -56,7 +56,14 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[Data Formulator](https://github.com/microsoft/data-formulator)** (by Microsoft) | Tool for creating data visualizations with AI agents. | ✅ | [microsoft/data-formulator](https://github.com/microsoft/data-formulator) (⭐️ ~14.2k) | 🌍 Web App | [Jun 2024](https://github.com/microsoft/data-formulator/releases) |
 | **[Sheet0](https://www.sheet0.com/)** | Spreadsheet agent for automated data collection and analysis. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/sheet0) |
 
-⬆️ [Back to Contents](#contents)
+### Web Browsers
+
+- https://chatgpt.com/atlas/
+- https://www.perplexity.ai/comet 
+- https://www.diabrowser.com/
+- https://fellou.ai/ 
+- https://deepmind.google/models/project-mariner/
+- https://www.operaneon.com/
 
 ### Chinese Projects
 
