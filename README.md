@@ -54,6 +54,8 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 |---------|-------------|-------------|--------|------|----------|
 | **[NEO](https://heyneo.so/)** | Autonomous ML engineer agent for end-to-end ML workflows. | ❌ | ❌ | 🌍 Web App | [Nov 2024](https://heyneo.so/blog) |
 
+- https://k-dense.ai/
+
 ⬆️ [Back to Contents](#contents)
 
 ## Security
@@ -71,6 +73,9 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[MetaGPT](https://www.deepwisdom.ai/metagpt)** | Multi-agent framework for software development. | ✅ | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) (⭐️ ~59.7k) | 🧰 SDK | [Jun 2023](https://github.com/FoundationAgents/MetaGPT/releases) |
 | **[Propolis](https://propolis.tech/)** | Swarms of agents simulating users for testing apps. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://news.ycombinator.com/item?id=45762012) |
 | **[Codemaps](https://cognition.ai/blog/codemaps)** (by Cognition) | Visualise code bases for understanding and navigation. | ❌ | ❌ | 🧩 Plugin/Extension | [Nov 2025](https://cognition.ai/blog/codemaps) |
+
+- https://github.com/ludo-technologies/pyscn
+- https://www.rhesis.ai/
 
 ⬆️ [Back to Contents](#contents)
 
@@ -115,7 +120,7 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 
 ⬆️ [Back to Contents](#contents)
 
-## Agent Memory
+## Agent Memory/Context Engineering
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
@@ -127,7 +132,19 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[Amazon Bedrock AgentCore Memory](https://aws.amazon.com/bedrock/agentcore/)** (by AWS) | Managed memory service for AI agents. | ❌ | ❌ | 🔌 API | [Oct 2025](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/) |
 | **[myNeutron](https://myneutron.ai/)** | Chrome extension for persistent AI memory across platforms. | ❌ | ❌ | 🧩 Plugin/Extension | [Oct 2025](https://coinedition.com/vanar-launches-myneutron-the-first-decentralized-ai-memory-layer-for-permanent-portable-ai-context/) |
 
+- https://openmemory.cavira.app/
+- https://www.getzep.com/
+
 ⬆️ [Back to Contents](#contents)
+
+## Workflows
+
+- https://opal.google/
+
+## Supporting (Non-Agent)
+
+- https://www.firecrawl.dev/
+- https://toonformat.dev/
 
 ## Chinese Projects
 
