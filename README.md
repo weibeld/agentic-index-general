@@ -21,6 +21,19 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 9. **[Agent Memory](#agent-memory)**
 10. **[Chinese Projects](#chinese-projects)**
 
+## Chat
+
+- https://chatgpt.com/
+- https://gemini.google.com/app
+- https://claude.ai/
+- https://www.perplexity.ai/
+- https://copilot.cloud.microsoft/
+- https://character.ai/
+- https://www.meta.ai/
+- https://x.ai/grok
+- https://chat.mistral.ai/chat
+- https://huggingface.co/chat/
+
 ## Design/UI/UX
 
 | Project | Description | Open-Source | GitHub | Type | Released |
