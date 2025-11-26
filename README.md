@@ -1,6 +1,6 @@
 # Agentic Index: General Projects
 
-![Last Updated](https://img.shields.io/date/1764148012?label=✅%20Last%20AI%20Update&color=success)
+![Last Updated](https://img.shields.io/date/1764176079?label=✅%20Last%20AI%20Update&color=success)
 
 Non-conclusive list of projects in the agentic AI world, organised across several categories.
 
@@ -12,17 +12,20 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 
 1. **[Chat](#chat)**
 2. **[Design/UI/UX](#designuiux)**
-3. **[Machine Learning](#machine-learning)**
-4. **[Security](#security)**
-5. **[Software Development](#software-development)**
-6. **[Data Processing](#data-processing)**
-7. **[Information Management](#information-management)**
-8. **[Web Browsers](#web-browsers)**
-9. **[Multi-Agent Orchestration](#multi-agent-orchestration)**
-10. **[Agent Memory/Context Engineering](#agent-memorycontext-engineering)**
-11. **[Workflows](#workflows)**
-12. **[Supporting (Non-Agent)](#supporting-non-agent)**
-13. **[Chinese Projects](#chinese-projects)**
+3. **[Image and Video](#image-and-video)**
+4. **[Audio](#audio)**
+5. **[Multi](#multi)**
+6. **[Machine Learning](#machine-learning)**
+7. **[Security](#security)**
+8. **[Software Development](#software-development)**
+9. **[Data Processing](#data-processing)**
+10. **[Information Management](#information-management)**
+11. **[Web Browsers](#web-browsers)**
+12. **[Multi-Agent Orchestration](#multi-agent-orchestration)**
+13. **[Agent Memory/Context Engineering](#agent-memorycontext-engineering)**
+14. **[Workflows](#workflows)**
+15. **[Supporting (Non-Agent)](#supporting-non-agent)**
+16. **[Chinese Projects](#chinese-projects)**
 
 ## Chat
 
@@ -54,30 +57,40 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
+| **[FLUX Playground](https://playground.bfl.ai/)** (by Black Forest Labs) | Browser platform for FLUX AI image models. | ❌ | ❌ | 🌍 Web App | [May 2025](https://finance.yahoo.com/news/black-forest-labs-launches-flux-202700582.html) |
+| **[Flow](https://labs.google/flow/about)** (by Google) | AI video creation tool using Veo models. | ❌ | ❌ | 🌍 Web App | [May 2025](https://blog.google/technology/ai/google-flow-veo-ai-filmmaking-tool/) |
+| **[Odyssey](https://experience.odyssey.ml/)** | Interactive AI video generator with real-time control. | ❌ | ❌ | 🌍 Web App | [May 2025](https://techcrunch.com/2025/05/28/odysseys-new-ai-model-streams-3d-interactive-worlds/) |
 | **[Whisk](https://labs.google/fx/tools/whisk)** (by Google) | AI image remixing tool using image inputs for subject, scene, and style. | ❌ | ❌ | 🌍 Web App | [Dec 2024](https://blog.google/technology/google-labs/whisk/) |
+| **[Sora](https://sora.chatgpt.com/)** (by OpenAI) | AI video generator from text prompts with audio support. | ❌ | ❌ | 🌍 Web App | [Dec 2024](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)) |
+| **[Dream Machine](https://lumalabs.ai/dream-machine)** (by Luma Labs) | AI video generator for cinematic content. | ❌ | ❌ | 🌍 Web App | [Jun 2024](https://en.wikipedia.org/wiki/Dream_Machine_(text-to-video_model)) |
 | **[ImageFX](https://labs.google/fx/tools/image-fx)** (by Google) | AI image generator using text prompts. | ❌ | ❌ | 🌍 Web App | [Feb 2024](https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/) |
+| **[LTX Studio](https://ltx.studio/)** (by Lightricks) | AI video production platform with storyboarding. | ❌ | ❌ | 🌍 Web App | [Feb 2024](https://aithority.com/ai-machine-learning-projects/new-ltx-studios-release-showcases-advancements-in-ai-video-capabilities/) |
+| **[Ideogram](https://ideogram.ai/)** | AI image generator with text rendering in images. | ❌ | ❌ | 🌍 Web App | [Aug 2023](https://en.wikipedia.org/wiki/Ideogram_(text-to-image_model)) |
+| **[Firefly](https://firefly.adobe.com/)** (by Adobe) | AI-powered creative tools for image and design generation. | ❌ | ❌ | 🌍 Web App | [Mar 2023](https://en.wikipedia.org/wiki/Adobe_Firefly) |
+| **[Runway](https://runwayml.com/)** | AI video generator for filmmakers and creators. | ❌ | ❌ | 🌍 Web App | [Feb 2023](https://siliconangle.com/2025/03/31/runway-launches-new-gen-4-ai-video-generator/) |
+| **[Leonardo.Ai](https://leonardo.ai/)** | AI image generator for high-quality visual content. | ❌ | ❌ | 🌍 Web App | [Dec 2022](https://canvasbusinessmodel.com/blogs/brief-history/leonardo-ai-brief-history) |
+| **[DreamStudio](https://dreamstudio.stability.ai/)** (by Stability AI) | AI image generator using Stable Diffusion. | ❌ | ❌ | 🌍 Web App | [Aug 2022](https://stability.ai/news/stablestudio-open-source-community-driven-future-dreamstudio-release) |
+| **[Midjourney](https://www.midjourney.com/)** | AI image generator using text prompts via Discord. | ❌ | ❌ | 🌍 Web App | [Jul 2022](https://en.wikipedia.org/wiki/Midjourney) |
+| **[NightCafe](https://creator.nightcafe.studio/)** | AI art creator with multiple generation models. | ❌ | ❌ | 🌍 Web App | [Nov 2019](https://creator.nightcafe.studio/about-nightcafe) |
 
-- https://www.midjourney.com/
-- https://firefly.adobe.com/
-- https://dreamstudio.stability.ai/
-- https://leonardo.ai/
-- https://ideogram.ai/
-- https://playground.bfl.ai/
-- https://runwayml.com/
-- https://creator.nightcafe.studio/
-- https://lumalabs.ai/dream-machine
-- https://ltx.studio/
-- https://labs.google/flow/about
-- https://experience.odyssey.ml/
+⬆️ [Back to Contents](#contents)
 
 ## Audio
 
-- https://stableaudio.com/
+| Project | Description | Open-Source | GitHub | Type | Released |
+|---------|-------------|-------------|--------|------|----------|
+| **[Stable Audio](https://stableaudio.com/)** (by Stability AI) | AI music and sound generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Sep 2023](https://www.prnewswire.com/news-releases/stability-ai-launches-stable-audio-the-companys-first-product-to-generate-music-using-artificial-intelligence-301925909.html) |
+
+⬆️ [Back to Contents](#contents)
 
 ## Multi
 
-- https://www.vondy.com/
-- https://www.canva.com/
+| Project | Description | Open-Source | GitHub | Type | Released |
+|---------|-------------|-------------|--------|------|----------|
+| **[Vondy](https://www.vondy.com/)** | AI productivity platform with tools for writing, design, and coding. | ❌ | ❌ | 🌍 Web App | [Jan 2023](https://techshark.io/tools/vondy-ai/) |
+| **[Canva](https://www.canva.com/)** | Design platform with AI-powered tools for images, videos, and documents. | ❌ | ❌ | 🌍 Web App | [Jan 2013](https://en.wikipedia.org/wiki/Canva) |
+
+⬆️ [Back to Contents](#contents)
 
 ## Machine Learning
 
@@ -156,7 +169,7 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[Mem0](https://mem0.ai/)** | Memory layer for AI agents. | ✅ | [mem0ai/mem0](https://github.com/mem0ai/mem0) (⭐️ ~43.6k) | 🧰 SDK | [Mar 2025](https://github.com/mem0ai/mem0/releases) |
 | **[Supermemory](https://supermemory.ai/)** | Memory engine for AI apps with web app and browser extension. | ✅ | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) (⭐️ ~13.6k) | 🌍 Web App, 🧩 Plugin/Extension, 🔌 API | [Oct 2025](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) |
 | **[Cognee](https://www.cognee.ai/)** | Memory engine using knowledge graphs and vector search. | ✅ | [topoteretes/cognee](https://github.com/topoteretes/cognee) (⭐️ ~9.2k) | 🧰 SDK | [Mar 2024](https://github.com/topoteretes/cognee/releases) |
-| **[Memori](https://memorilabs.ai/)** | Memory engine for LLMs and AI agents. | ✅ | [GibsonAI/Memori](https://github.com/GibsonAI/Memori) (⭐️ ~7.1k) | 🧰 SDK | [Aug 2025](https://github.com/GibsonAI/Memori/releases) |
+| **[Memori](https://memorilabs.ai/)** | Memory engine for LLMs and AI agents. | ✅ | [GibsonAI/Memori](https://github.com/GibsonAI/Memori) (⭐️ ~7.2k) | 🧰 SDK | [Aug 2025](https://github.com/GibsonAI/Memori/releases) |
 | **[Zep](https://www.getzep.com/)** | Context engineering platform using temporal knowledge graphs. | ✅ | [getzep/zep](https://github.com/getzep/zep) (⭐️ ~3.8k) | 🧰 SDK, 🔌 API | [Apr 2023](https://github.com/getzep/zep) |
 | **[OpenMemory](https://openmemory.cavira.app/)** | Self-hosted long-term memory engine for AI agents. | ✅ | [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) (⭐️ ~2.3k) | 🧰 SDK | [Oct 2025](https://github.com/CaviraOSS/OpenMemory/releases) |
 | **[Context Link](https://context-link.ai/)** | Context management tool linking docs and notes to AI assistants. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/context-link/launches) |
@@ -178,7 +191,7 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
 | **[Firecrawl](https://www.firecrawl.dev/)** | Web scraping API that converts websites to LLM-ready data. | ✅ | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (⭐️ ~68.6k) | 🔌 API | [Apr 2024](https://github.com/firecrawl/firecrawl) |
-| **[TOON](https://toonformat.dev/)** | Token-efficient serialization format for LLM prompts. | ✅ | [toon-format/toon](https://github.com/toon-format/toon) (⭐️ ~19.6k) | 🧰 SDK | [Oct 2025](https://github.com/toon-format/toon/releases) |
+| **[TOON](https://toonformat.dev/)** | Token-efficient serialization format for LLM prompts. | ✅ | [toon-format/toon](https://github.com/toon-format/toon) (⭐️ ~19.7k) | 🧰 SDK | [Oct 2025](https://github.com/toon-format/toon/releases) |
 
 ⬆️ [Back to Contents](#contents)
 
@@ -188,12 +201,11 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 |---------|-------------|-------------|--------|------|----------|
 | **[MemOS](https://github.com/MemTensor/MemOS)** | Memory operating system for LLMs. | ✅ | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) (⭐️ ~3.1k) | 🧰 SDK | [Jul 2025](https://github.com/MemTensor/MemOS/releases) |
 | **[AgentEvolver](https://github.com/modelscope/AgentEvolver)** | Self-evolving training framework for AI agents. | ✅ | [modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver) (⭐️ ~670) | 🧰 SDK | [Nov 2025](https://github.com/modelscope/AgentEvolver) |
+| **[General Agentic Memory](https://github.com/VectorSpaceLab/general-agentic-memory)** | General-purpose memory system for AI agents. | ✅ | [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) (⭐️ ~120) | 🧰 SDK | [Nov 2025](https://github.com/VectorSpaceLab/general-agentic-memory) |
 | **[CodeBanana](https://www.codebanana.com/en/home)** | Collaborative coding platform with real-time editing. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://www.producthunt.com/products/codebanana) |
-| **[TRAE](https://www.trae.ai/)** (by ByteDance) | IDE with code generation and agent-based automation. | ❌ | ❌ | 📊 Desktop App | [Jan 2025](https://pandaily.com/bytedance-launches-trae-ai-coding-tool-for-developers) |
 | **[Manus](https://manus.im/)** | Autonomous AI agent for executing real-world tasks. | ❌ | ❌ | 🌍 Web App | [Mar 2025](https://en.wikipedia.org/wiki/Manus_(AI_agent)) |
-
-- https://github.com/VectorSpaceLab/general-agentic-memory
-- https://klingai.com/global/
-- https://hailuoai.video/
+| **[TRAE](https://www.trae.ai/)** (by ByteDance) | IDE with code generation and agent-based automation. | ❌ | ❌ | 📊 Desktop App | [Jan 2025](https://pandaily.com/bytedance-launches-trae-ai-coding-tool-for-developers) |
+| **[Hailuo AI](https://hailuoai.video/)** (by MiniMax) | AI video generator from text and images. | ❌ | ❌ | 🌍 Web App | [Sep 2024](https://aimodelab.com/hailuo/) |
+| **[Kling AI](https://klingai.com/global/)** (by Kuaishou) | AI video generator for cinematic content. | ❌ | ❌ | 🌍 Web App | [Jun 2024](https://en.wikipedia.org/wiki/Kling_AI) |
 
 ⬆️ [Back to Contents](#contents)
