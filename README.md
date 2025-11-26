@@ -57,6 +57,28 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[Whisk](https://labs.google/fx/tools/whisk)** (by Google) | AI image remixing tool using image inputs for subject, scene, and style. | ❌ | ❌ | 🌍 Web App | [Dec 2024](https://blog.google/technology/google-labs/whisk/) |
 | **[ImageFX](https://labs.google/fx/tools/image-fx)** (by Google) | AI image generator using text prompts. | ❌ | ❌ | 🌍 Web App | [Feb 2024](https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/) |
 
+- https://www.midjourney.com/
+- https://firefly.adobe.com/
+- https://dreamstudio.stability.ai/
+- https://leonardo.ai/
+- https://ideogram.ai/
+- https://playground.bfl.ai/
+- https://runwayml.com/
+- https://creator.nightcafe.studio/
+- https://lumalabs.ai/dream-machine
+- https://ltx.studio/
+- https://labs.google/flow/about
+- https://experience.odyssey.ml/
+
+## Audio
+
+- https://stableaudio.com/
+
+## Multi
+
+- https://www.vondy.com/
+- https://www.canva.com/
+
 ## Machine Learning
 
 | Project | Description | Open-Source | GitHub | Type | Released |
@@ -171,5 +193,7 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[Manus](https://manus.im/)** | Autonomous AI agent for executing real-world tasks. | ❌ | ❌ | 🌍 Web App | [Mar 2025](https://en.wikipedia.org/wiki/Manus_(AI_agent)) |
 
 - https://github.com/VectorSpaceLab/general-agentic-memory
+- https://klingai.com/global/
+- https://hailuoai.video/
 
 ⬆️ [Back to Contents](#contents)
