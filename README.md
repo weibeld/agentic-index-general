@@ -48,6 +48,9 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[Superdesign](https://www.superdesign.dev)** | IDE extension for generating UI mockups and components. | ✅ | [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) (⭐️ ~5.4k) | 🧩 Plugin/Extension | [Jun 2025](https://github.com/superdesigndev/superdesign/releases) |
 | **[Stitch](https://stitch.withgoogle.com/)** (by Google) | Design tool that generates UI from prompts or sketches. | ❌ | ❌ | 🌍 Web App | [May 2025](https://techcrunch.com/2025/05/20/google-launches-stitch-an-ai-powered-tool-to-help-design-apps/) |
 
+- https://labs.google/fx/tools/image-fx
+- https://labs.google/fx/tools/whisk
+
 ⬆️ [Back to Contents](#contents)
 
 ## Machine Learning
