@@ -165,4 +165,6 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[TRAE](https://www.trae.ai/)** (by ByteDance) | IDE with code generation and agent-based automation. | ❌ | ❌ | 📊 Desktop App | [Jan 2025](https://pandaily.com/bytedance-launches-trae-ai-coding-tool-for-developers) |
 | **[Manus](https://manus.im/)** | Autonomous AI agent for executing real-world tasks. | ❌ | ❌ | 🌍 Web App | [Mar 2025](https://en.wikipedia.org/wiki/Manus_(AI_agent)) |
 
+- https://github.com/VectorSpaceLab/general-agentic-memory
+
 ⬆️ [Back to Contents](#contents)
