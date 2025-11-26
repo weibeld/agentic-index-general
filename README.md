@@ -57,10 +57,11 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[BFL Playground](https://playground.bfl.ai/)** (by Black Forest Labs) | Browser platform for FLUX AI image models. | ❌ | ❌ | 🌍 Web App | [May 2025](https://finance.yahoo.com/news/black-forest-labs-launches-flux-202700582.html) |
+| **[FLUX Playground](https://playground.bfl.ai/)** (by Black Forest Labs) | Browser platform for FLUX AI image models. | ❌ | ❌ | 🌍 Web App | [May 2025](https://finance.yahoo.com/news/black-forest-labs-launches-flux-202700582.html) |
 | **[Flow](https://labs.google/flow/about)** (by Google) | AI video creation tool using Veo models. | ❌ | ❌ | 🌍 Web App | [May 2025](https://blog.google/technology/ai/google-flow-veo-ai-filmmaking-tool/) |
 | **[Odyssey](https://experience.odyssey.ml/)** | Interactive AI video generator with real-time control. | ❌ | ❌ | 🌍 Web App | [May 2025](https://techcrunch.com/2025/05/28/odysseys-new-ai-model-streams-3d-interactive-worlds/) |
 | **[Whisk](https://labs.google/fx/tools/whisk)** (by Google) | AI image remixing tool using image inputs for subject, scene, and style. | ❌ | ❌ | 🌍 Web App | [Dec 2024](https://blog.google/technology/google-labs/whisk/) |
+| **[Sora](https://sora.chatgpt.com/)** (by OpenAI) | AI video generator from text prompts with audio support. | ❌ | ❌ | 🌍 Web App | [Dec 2024](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)) |
 | **[Dream Machine](https://lumalabs.ai/dream-machine)** (by Luma Labs) | AI video generator for cinematic content. | ❌ | ❌ | 🌍 Web App | [Jun 2024](https://en.wikipedia.org/wiki/Dream_Machine_(text-to-video_model)) |
 | **[ImageFX](https://labs.google/fx/tools/image-fx)** (by Google) | AI image generator using text prompts. | ❌ | ❌ | 🌍 Web App | [Feb 2024](https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/) |
 | **[LTX Studio](https://ltx.studio/)** (by Lightricks) | AI video production platform with storyboarding. | ❌ | ❌ | 🌍 Web App | [Feb 2024](https://aithority.com/ai-machine-learning-projects/new-ltx-studios-release-showcases-advancements-in-ai-video-capabilities/) |
