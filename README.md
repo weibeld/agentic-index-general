@@ -73,6 +73,8 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | **[Midjourney](https://www.midjourney.com/)** | AI image generator using text prompts via Discord. | ❌ | ❌ | 🌍 Web App | [Jul 2022](https://en.wikipedia.org/wiki/Midjourney) |
 | **[NightCafe](https://creator.nightcafe.studio/)** | AI art creator with multiple generation models. | ❌ | ❌ | 🌍 Web App | [Nov 2019](https://creator.nightcafe.studio/about-nightcafe) |
 
+- https://fal.ai/
+
 ⬆️ [Back to Contents](#contents)
 
 ## Audio
@@ -80,6 +82,11 @@ Non-conclusive list of projects in the agentic AI world, organised across severa
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
 | **[Stable Audio](https://stableaudio.com/)** (by Stability AI) | AI music and sound generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Sep 2023](https://www.prnewswire.com/news-releases/stability-ai-launches-stable-audio-the-companys-first-product-to-generate-music-using-artificial-intelligence-301925909.html) |
+
+- https://suno.com/home
+- https://www.udio.com/
+- https://elevenlabs.io/
+- https://labs.google/fx/tools/music-fx
 
 ⬆️ [Back to Contents](#contents)
 
