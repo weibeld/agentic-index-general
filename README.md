@@ -213,4 +213,6 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Hailuo AI](https://hailuoai.video/)** (by MiniMax) | AI video generator from text and images. | ❌ | ❌ | 🌍 Web App | [Sep 2024](https://aimodelab.com/hailuo/) |
 | **[Kling AI](https://klingai.com/global/)** (by Kuaishou) | AI video generator for cinematic content. | ❌ | ❌ | 🌍 Web App | [Jun 2024](https://en.wikipedia.org/wiki/Kling_AI) |
 
+- https://acontext.io/
+
 ⬆️ [Back to Contents](#contents)
