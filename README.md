@@ -1,6 +1,6 @@
 # Agentic Index: General Projects
 
-![Last Updated](https://img.shields.io/date/1764176079?label=✅%20Last%20AI%20Update&color=success)
+![Last Updated](https://img.shields.io/date/1764242803?label=✅%20Last%20AI%20Update&color=success)
 
 Living document listing projects in the agentic AI world, organised across several categories.
 
@@ -62,6 +62,7 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Odyssey](https://experience.odyssey.ml/)** | Interactive AI video generator with real-time control. | ❌ | ❌ | 🌍 Web App | [May 2025](https://techcrunch.com/2025/05/28/odysseys-new-ai-model-streams-3d-interactive-worlds/) |
 | **[Whisk](https://labs.google/fx/tools/whisk)** (by Google) | AI image remixing tool using image inputs for subject, scene, and style. | ❌ | ❌ | 🌍 Web App | [Dec 2024](https://blog.google/technology/google-labs/whisk/) |
 | **[Sora](https://sora.chatgpt.com/)** (by OpenAI) | AI video generator from text prompts with audio support. | ❌ | ❌ | 🌍 Web App | [Dec 2024](https://en.wikipedia.org/wiki/Sora_(text-to-video_model)) |
+| **[fal](https://fal.ai/)** | API platform for generative image, video, and audio models. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Sep 2024](https://techcrunch.com/2024/09/18/fal-ai-which-hosts-media-generating-ai-models-raises-23m-from-a16z-and-others/) |
 | **[Dream Machine](https://lumalabs.ai/dream-machine)** (by Luma Labs) | AI video generator for cinematic content. | ❌ | ❌ | 🌍 Web App | [Jun 2024](https://en.wikipedia.org/wiki/Dream_Machine_(text-to-video_model)) |
 | **[ImageFX](https://labs.google/fx/tools/image-fx)** (by Google) | AI image generator using text prompts. | ❌ | ❌ | 🌍 Web App | [Feb 2024](https://techcrunch.com/2024/02/01/google-launches-an-ai-powered-image-generator/) |
 | **[LTX Studio](https://ltx.studio/)** (by Lightricks) | AI video production platform with storyboarding. | ❌ | ❌ | 🌍 Web App | [Feb 2024](https://aithority.com/ai-machine-learning-projects/new-ltx-studios-release-showcases-advancements-in-ai-video-capabilities/) |
@@ -73,20 +74,17 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Midjourney](https://www.midjourney.com/)** | AI image generator using text prompts via Discord. | ❌ | ❌ | 🌍 Web App | [Jul 2022](https://en.wikipedia.org/wiki/Midjourney) |
 | **[NightCafe](https://creator.nightcafe.studio/)** | AI art creator with multiple generation models. | ❌ | ❌ | 🌍 Web App | [Nov 2019](https://creator.nightcafe.studio/about-nightcafe) |
 
-- https://fal.ai/
-
 ⬆️ [Back to Contents](#contents)
 
 ## Audio
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
+| **[Udio](https://www.udio.com/)** | AI music generator for songs with realistic vocals. | ❌ | ❌ | 🌍 Web App | [Apr 2024](https://en.wikipedia.org/wiki/Udio) |
+| **[MusicFX](https://labs.google/fx/tools/music-fx)** (by Google) | AI music generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Feb 2024](https://www.digitalmusicnews.com/2024/02/06/googles-musicfx-has-created-more-than-10-million-tracks/) |
+| **[Suno](https://suno.com/home)** | AI music generator for songs with vocals and lyrics. | ❌ | ❌ | 🌍 Web App | [Dec 2023](https://en.wikipedia.org/wiki/Suno_(Platform)) |
 | **[Stable Audio](https://stableaudio.com/)** (by Stability AI) | AI music and sound generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Sep 2023](https://www.prnewswire.com/news-releases/stability-ai-launches-stable-audio-the-companys-first-product-to-generate-music-using-artificial-intelligence-301925909.html) |
-
-- https://suno.com/home
-- https://www.udio.com/
-- https://elevenlabs.io/
-- https://labs.google/fx/tools/music-fx
+| **[ElevenLabs](https://elevenlabs.io/)** | AI voice synthesis platform for text-to-speech and cloning. | ❌ | ❌ | 🌍 Web App, 🔌 API | [Jan 2023](https://en.wikipedia.org/wiki/ElevenLabs) |
 
 ⬆️ [Back to Contents](#contents)
 
@@ -174,9 +172,9 @@ Living document listing projects in the agentic AI world, organised across sever
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
 | **[Mem0](https://mem0.ai/)** | Memory layer for AI agents. | ✅ | [mem0ai/mem0](https://github.com/mem0ai/mem0) (⭐️ ~43.6k) | 🧰 SDK | [Mar 2025](https://github.com/mem0ai/mem0/releases) |
-| **[Supermemory](https://supermemory.ai/)** | Memory engine for AI apps with web app and browser extension. | ✅ | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) (⭐️ ~13.6k) | 🌍 Web App, 🧩 Plugin/Extension, 🔌 API | [Oct 2025](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) |
+| **[Supermemory](https://supermemory.ai/)** | Memory engine for AI apps with web app and browser extension. | ✅ | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) (⭐️ ~13.7k) | 🌍 Web App, 🧩 Plugin/Extension, 🔌 API | [Oct 2025](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) |
 | **[Cognee](https://www.cognee.ai/)** | Memory engine using knowledge graphs and vector search. | ✅ | [topoteretes/cognee](https://github.com/topoteretes/cognee) (⭐️ ~9.2k) | 🧰 SDK | [Mar 2024](https://github.com/topoteretes/cognee/releases) |
-| **[Memori](https://memorilabs.ai/)** | Memory engine for LLMs and AI agents. | ✅ | [GibsonAI/Memori](https://github.com/GibsonAI/Memori) (⭐️ ~7.2k) | 🧰 SDK | [Aug 2025](https://github.com/GibsonAI/Memori/releases) |
+| **[Memori](https://memorilabs.ai/)** | Memory engine for LLMs and AI agents. | ✅ | [GibsonAI/Memori](https://github.com/GibsonAI/Memori) (⭐️ ~7.4k) | 🧰 SDK | [Aug 2025](https://github.com/GibsonAI/Memori/releases) |
 | **[Zep](https://www.getzep.com/)** | Context engineering platform using temporal knowledge graphs. | ✅ | [getzep/zep](https://github.com/getzep/zep) (⭐️ ~3.8k) | 🧰 SDK, 🔌 API | [Apr 2023](https://github.com/getzep/zep) |
 | **[OpenMemory](https://openmemory.cavira.app/)** | Self-hosted long-term memory engine for AI agents. | ✅ | [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) (⭐️ ~2.3k) | 🧰 SDK | [Oct 2025](https://github.com/CaviraOSS/OpenMemory/releases) |
 | **[Context Link](https://context-link.ai/)** | Context management tool linking docs and notes to AI assistants. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/context-link/launches) |
@@ -206,9 +204,9 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[MemOS](https://github.com/MemTensor/MemOS)** | Memory operating system for LLMs. | ✅ | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) (⭐️ ~3.1k) | 🧰 SDK | [Jul 2025](https://github.com/MemTensor/MemOS/releases) |
-| **[AgentEvolver](https://github.com/modelscope/AgentEvolver)** | Self-evolving training framework for AI agents. | ✅ | [modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver) (⭐️ ~670) | 🧰 SDK | [Nov 2025](https://github.com/modelscope/AgentEvolver) |
-| **[General Agentic Memory](https://github.com/VectorSpaceLab/general-agentic-memory)** | General-purpose memory system for AI agents. | ✅ | [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) (⭐️ ~120) | 🧰 SDK | [Nov 2025](https://github.com/VectorSpaceLab/general-agentic-memory) |
+| **[MemOS](https://github.com/MemTensor/MemOS)** | Memory operating system for LLMs. | ✅ | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) (⭐️ ~3.2k) | 🧰 SDK | [Jul 2025](https://github.com/MemTensor/MemOS/releases) |
+| **[AgentEvolver](https://github.com/modelscope/AgentEvolver)** | Self-evolving training framework for AI agents. | ✅ | [modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver) (⭐️ ~690) | 🧰 SDK | [Nov 2025](https://github.com/modelscope/AgentEvolver) |
+| **[General Agentic Memory](https://github.com/VectorSpaceLab/general-agentic-memory)** | General-purpose memory system for AI agents. | ✅ | [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) (⭐️ ~200) | 🧰 SDK | [Nov 2025](https://github.com/VectorSpaceLab/general-agentic-memory) |
 | **[CodeBanana](https://www.codebanana.com/en/home)** | Collaborative coding platform with real-time editing. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://www.producthunt.com/products/codebanana) |
 | **[Manus](https://manus.im/)** | Autonomous AI agent for executing real-world tasks. | ❌ | ❌ | 🌍 Web App | [Mar 2025](https://en.wikipedia.org/wiki/Manus_(AI_agent)) |
 | **[TRAE](https://www.trae.ai/)** (by ByteDance) | IDE with code generation and agent-based automation. | ❌ | ❌ | 📊 Desktop App | [Jan 2025](https://pandaily.com/bytedance-launches-trae-ai-coding-tool-for-developers) |
