@@ -2,11 +2,11 @@
 
 ![Last Updated](https://img.shields.io/date/1764176079?label=✅%20Last%20AI%20Update&color=success)
 
-Non-conclusive list of projects in the agentic AI world, organised across several categories.
+Living document listing projects in the agentic AI world, organised across several categories.
 
 > **🤖 The content of this file has been mainly researched by AI. Double check, if necessary.** 
 
-> **Note:** this repository excludes **coding agents** as they are covered in the [weibeld/agentic-index-coding](https://github.com/weibeld/agentic-index-coding) repository.
+> **Note:** this repository excludes **coding agents** as they are covered in the [weibeld/agentic-index-coding](https://github.com/weibeld/agentic-index-coding) and agent building tools which are covered in [weibeld/agentic-index-sdk](https://github.com/weibeld/agentic-index-sdk).
 
 ## Contents
 
