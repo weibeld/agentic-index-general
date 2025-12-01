@@ -85,7 +85,7 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[Horizon Worlds](https://horizon.meta.com/)** (by Meta) | Metaverse platform for social VR experiences. | ❌ | ❌ | 🌍 Web App | [Dec 2021](https://about.fb.com/news/2021/12/horizon-worlds-open-in-us-and-canada/) |
+| **[Meta Horizon](https://horizon.meta.com/)** (by Meta) | Metaverse platform for social VR experiences. | ❌ | ❌ | 🌍 Web App | [Dec 2021](https://about.fb.com/news/2021/12/horizon-worlds-open-in-us-and-canada/) |
 | **[Meshy](https://www.meshy.ai/)** | AI 3D model generator from text and images. | ❌ | ❌ | 🌍 Web App | [Apr 2023](https://www.crunchbase.com/organization/meshy) |
 | **[Genie 3](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)** (by Google) | Interactive 3D world generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Aug 2025](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/) |
 | **[Marble](https://marble.worldlabs.ai/)** (by World Labs) | 3D world generator from text, images, and video. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) |
