@@ -1,6 +1,6 @@
 # Agentic Index: General Projects
 
-![Last Updated](https://img.shields.io/date/1764577143?label=✅%20Last%20AI%20Update&color=success)
+![Last Updated](https://img.shields.io/date/1764584096?label=✅%20Last%20AI%20Update&color=success)
 
 Living document listing projects in the agentic AI world, organised across several categories.
 
@@ -26,8 +26,9 @@ Living document listing projects in the agentic AI world, organised across sever
 14. **[Agent Memory/Context Engineering](#agent-memorycontext-engineering)**
 15. **[Workflows](#workflows)**
 16. **[Model Aggregators](#model-aggregators)**
-17. **[Supporting (Non-Agent)](#supporting-non-agent)**
-18. **[Chinese Projects](#chinese-projects)**
+17. **[Model Runtime](#model-runtime)**
+18. **[Supporting (Non-Agent)](#supporting-non-agent)**
+19. **[Chinese Projects](#chinese-projects)**
 
 ## Chat
 
@@ -86,8 +87,8 @@ Living document listing projects in the agentic AI world, organised across sever
 |---------|-------------|-------------|--------|------|----------|
 | **[Marble](https://marble.worldlabs.ai/)** (by World Labs) | 3D world generator from text, images, and video. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) |
 | **[Genie 3](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)** (by Google) | Interactive 3D world generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Aug 2025](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/) |
+| **[Meshy](https://www.meshy.ai/)** | AI 3D model generator from text and images. | ❌ | ❌ | 🌍 Web App | [Apr 2023](https://www.crunchbase.com/organization/meshy) |
 
-- https://www.meshy.ai/
 - https://horizon.meta.com/
 
 ⬆️ [Back to Contents](#contents)
@@ -138,7 +139,7 @@ Living document listing projects in the agentic AI world, organised across sever
 |---------|-------------|-------------|--------|------|----------|
 | **[MetaGPT](https://www.deepwisdom.ai/metagpt)** | Multi-agent framework for software development. | ✅ | [FoundationAgents/MetaGPT](https://github.com/FoundationAgents/MetaGPT) (⭐️ ~59.8k) | 🧰 SDK | [Jun 2023](https://github.com/FoundationAgents/MetaGPT/releases) |
 | **[Pyscn](https://github.com/ludo-technologies/pyscn)** | Python code quality analyzer with architecture and dependency analysis. | ✅ | [ludo-technologies/pyscn](https://github.com/ludo-technologies/pyscn) (⭐️ ~940) | 💻 CLI Tool | [Sep 2025](https://github.com/ludo-technologies/pyscn/releases) |
-| **[Rhesis](https://www.rhesis.ai/)** | Testing platform and SDK for LLM and agentic applications. | ✅ | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) (⭐️ ~190) | 🌍 Web App, 🧰 SDK | [May 2024](https://www.crunchbase.com/organization/rhesis-ai) |
+| **[Rhesis](https://www.rhesis.ai/)** | Testing platform and SDK for LLM and agentic applications. | ✅ | [rhesis-ai/rhesis](https://github.com/rhesis-ai/rhesis) (⭐️ ~200) | 🌍 Web App, 🧰 SDK | [May 2024](https://www.crunchbase.com/organization/rhesis-ai) |
 | **[Propolis](https://propolis.tech/)** | Swarms of agents simulating users for testing apps. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://news.ycombinator.com/item?id=45762012) |
 | **[Codemaps](https://cognition.ai/blog/codemaps)** (by Cognition) | Visualise code bases for understanding and navigation. | ❌ | ❌ | 🧩 Plugin/Extension | [Nov 2025](https://cognition.ai/blog/codemaps) |
 
@@ -227,14 +228,18 @@ Living document listing projects in the agentic AI world, organised across sever
 
 ## Model Runtime
 
-- https://www.together.ai/
-- https://huggingface.co/
-- https://modal.com/
-- https://replicate.com/
-- https://www.runpod.io/
-- https://aws.amazon.com/bedrock/
-- https://cloud.google.com/vertex-ai
-- https://ai.azure.com/
+| Project | Description | Open-Source | GitHub | Type | Released |
+|---------|-------------|-------------|--------|------|----------|
+| **[Hugging Face](https://huggingface.co/)** | AI platform for hosting, sharing, and deploying ML models. | ✅ | [huggingface](https://github.com/huggingface) (👥 ~56.3k followers) | 🌍 Web App, 🔌 API, 🧰 SDK | [Oct 2016](https://en.wikipedia.org/wiki/Hugging_Face) |
+| **[Together AI](https://www.together.ai/)** | Cloud platform for running and fine-tuning AI models. | ❌ | ❌ | 🔌 API | [Jun 2022](https://canvasbusinessmodel.com/blogs/brief-history/together-ai-brief-history) |
+| **[Modal](https://modal.com/)** | Serverless cloud platform for AI and ML workloads. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Feb 2022](https://www.nycompanyregistry.com/companies/modal-labs-inc/) |
+| **[Replicate](https://replicate.com/)** | Cloud platform for running and hosting ML models via API. | ❌ | ❌ | 🔌 API | [2019](https://www.crunchbase.com/organization/replicate) |
+| **[RunPod](https://www.runpod.io/)** | GPU cloud platform for AI and ML workloads. | ❌ | ❌ | 🔌 API | [2021](https://www.linktly.com/artificial-intelligence-software/runpod-review/) |
+| **[Amazon Bedrock](https://aws.amazon.com/bedrock/)** (by AWS) | Managed service for accessing foundation models via API. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Sep 2023](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available/) |
+| **[Vertex AI](https://cloud.google.com/vertex-ai)** (by Google) | ML platform for training, deploying, and managing AI models. | ❌ | ❌ | 🔌 API, 🧰 SDK | [May 2021](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-launches-vertex-ai-unified-platform-for-mlops) |
+| **[Microsoft Foundry](https://ai.azure.com/)** (by Microsoft) | Platform for building and deploying AI applications. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Nov 2024](https://azure.microsoft.com/en-us/blog/the-next-wave-of-azure-innovation-azure-ai-foundry-intelligent-data-and-more/) |
+
+⬆️ [Back to Contents](#contents)
 
 ## Supporting (Non-Agent)
 
@@ -250,10 +255,11 @@ Living document listing projects in the agentic AI world, organised across sever
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
 | **[Wan](https://wan.video/)** (by Alibaba) | AI video generator from text and images. | ✅ | [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) (⭐️ ~14.8k) | 🌍 Web App | [Feb 2025](https://domain.news/alibaba-launches-wan-2-1-ai-model-and-acquires-wan-video-domain-advancing-its-ai-strategy/) |
+| **[Hunyuan 3D](https://3d.hunyuan.tencent.com/)** (by Tencent) | AI 3D model generator from text and images. | ✅ | [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) (⭐️ ~12.5k) | 🌍 Web App | [Nov 2024](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) |
 | **[MemOS](https://github.com/MemTensor/MemOS)** | Memory operating system for LLMs. | ✅ | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) (⭐️ ~3.2k) | 🧰 SDK | [Jul 2025](https://github.com/MemTensor/MemOS/releases) |
 | **[Acontext](https://acontext.io/)** | Context data platform for AI agents. | ✅ | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) (⭐️ ~1.1k) | 🧰 SDK | [Jul 2025](https://github.com/memodb-io/Acontext) |
-| **[AgentEvolver](https://github.com/modelscope/AgentEvolver)** | Self-evolving training framework for AI agents. | ✅ | [modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver) (⭐️ ~740) | 🧰 SDK | [Nov 2025](https://github.com/modelscope/AgentEvolver) |
-| **[General Agentic Memory](https://github.com/VectorSpaceLab/general-agentic-memory)** | General-purpose memory system for AI agents. | ✅ | [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) (⭐️ ~540) | 🧰 SDK | [Nov 2025](https://github.com/VectorSpaceLab/general-agentic-memory) |
+| **[AgentEvolver](https://github.com/modelscope/AgentEvolver)** | Self-evolving training framework for AI agents. | ✅ | [modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver) (⭐️ ~750) | 🧰 SDK | [Nov 2025](https://github.com/modelscope/AgentEvolver) |
+| **[General Agentic Memory](https://github.com/VectorSpaceLab/general-agentic-memory)** | General-purpose memory system for AI agents. | ✅ | [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) (⭐️ ~550) | 🧰 SDK | [Nov 2025](https://github.com/VectorSpaceLab/general-agentic-memory) |
 | **[CodeBanana](https://www.codebanana.com/en/home)** | Collaborative coding platform with real-time editing. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://www.producthunt.com/products/codebanana) |
 | **[Magic3D](https://www.magic3d.io/)** | AI 3D model generator from text and images. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://www.magic3d.io/) |
 | **[Manus](https://manus.im/)** | Autonomous AI agent for executing real-world tasks. | ❌ | ❌ | 🌍 Web App | [Mar 2025](https://en.wikipedia.org/wiki/Manus_(AI_agent)) |
@@ -261,7 +267,5 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Hailuo AI](https://hailuoai.video/)** (by MiniMax) | AI video generator from text and images. | ❌ | ❌ | 🌍 Web App | [Sep 2024](https://aimodelab.com/hailuo/) |
 | **[Kling AI](https://klingai.com/global/)** (by Kuaishou) | AI video generator for cinematic content. | ❌ | ❌ | 🌍 Web App | [Jun 2024](https://en.wikipedia.org/wiki/Kling_AI) |
 | **[Dreamina](https://dreamina.capcut.com/)** (by ByteDance) | AI image and video generator with editing tools. | ❌ | ❌ | 🌍 Web App | [May 2024](https://pandaily.com/capcuts-new-brand-dreamina-launches-ai-video-editing-feature) |
-
-- https://3d.hunyuan.tencent.com/
 
 ⬆️ [Back to Contents](#contents)
