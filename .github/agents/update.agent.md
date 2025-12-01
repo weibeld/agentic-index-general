@@ -54,6 +54,11 @@ Each section should have a table with the following columns:
 - If open-source with a GitHub repository: `[user/repo](https://github.com/user/repo) (⭐️ ~Xk)`
 - Format: Shorten URL to `user/repo` in the link text
 - For star count formatting, see **GitHub Star Count Formatting** in Core Research Guidelines below
+- **Exception for GitHub organizations:** If a single GitHub repo cannot be identified for the target (e.g., if there are many interlinked repos) but there is a GitHub organisation that hosts all these repos, then exceptionally list the GitHub organisation instead of a single repo: `[orgname](https://github.com/orgname) (👥 ~Xk followers)`
+  - Use the 👥 emoji and "followers" instead of ⭐️ and star count
+  - Format follower count the same way as star counts (see **GitHub Star Count Formatting** in Core Research Guidelines below)
+  - Example: `[huggingface](https://github.com/huggingface) (👥 ~15.2k followers)`
+  - Only use this exception when a single representative repository cannot be identified
 - If no repository: ❌
 
 **Type:**
@@ -157,6 +162,7 @@ When retrieving data from GitHub repositories (star counts, releases, tags), use
 **Specific GitHub MCP server tools for each data type:**
 
 - **Star counts:** `search_repositories` with query `repo:OWNER/REPO` (extract `stargazers_count` field from results)
+- **Organization follower counts:** `search_users` with query `org:ORGNAME type:org` (extract follower count from results) OR use the public GitHub API (`https://api.github.com/orgs/ORGNAME`)
 - **Releases:** `list_releases` (find the FIRST/oldest release)
 - **Tags:** `list_tags` (find the FIRST/oldest tag)
 
