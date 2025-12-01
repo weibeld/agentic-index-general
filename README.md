@@ -212,7 +212,12 @@ Living document listing projects in the agentic AI world, organised across sever
 ## Model Aggregators
 
 - https://vercel.com/ai-gateway
-- TODO: add OpenRouter, etc. (see agentic-index-coding)
+- https://openrouter.ai/
+- https://models.dev/
+- https://www.requesty.ai/
+- https://www.edenai.co/
+- https://portkey.ai/
+- https://huggingface.co/
 
 ## Supporting (Non-Agent)
 
