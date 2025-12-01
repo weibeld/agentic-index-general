@@ -88,6 +88,7 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Genie 3](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)** (by Google) | Interactive 3D world generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Aug 2025](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/) |
 
 - https://www.meshy.ai/
+- https://horizon.meta.com/
 
 ⬆️ [Back to Contents](#contents)
 
