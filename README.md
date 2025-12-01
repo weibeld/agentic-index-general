@@ -27,6 +27,7 @@ Living document listing projects in the agentic AI world, organised across sever
 15. **[Workflows](#workflows)**
 16. **[Model Aggregators](#model-aggregators)**
 17. **[Model Runtime](#model-runtime)**
+17. **[Model Performance](#model-performance)**
 18. **[Supporting (Non-Agent)](#supporting-non-agent)**
 19. **[Chinese Projects](#chinese-projects)**
 
@@ -34,7 +35,6 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[LMArena](https://lmarena.ai/)** | LLM evaluation platform with crowdsourced benchmarking. | ✅ | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) (⭐️ ~39.3k) | 🌍 Web App | [May 2023](https://lmsys.org/blog/2023-05-03-arena/) |
 | **[HuggingChat](https://huggingface.co/chat/)** (by Hugging Face) | Open-source chatbot interface. | ✅ | [huggingface/chat-ui](https://github.com/huggingface/chat-ui) (⭐️ ~10.3k) | 🌍 Web App | [Apr 2023](https://huggingface.co/spaces/huggingchat/chat-ui/discussions/747) |
 | **[Character.ai](https://character.ai/)** | Chatbot platform for customizable AI characters. | ❌ | ❌ | 🌍 Web App | [Sep 2022](https://en.wikipedia.org/wiki/Character.ai) |
 | **[ChatGPT](https://chatgpt.com/)** (by OpenAI) | Conversational AI assistant. | ❌ | ❌ | 🌍 Web App | [Nov 2022](https://en.wikipedia.org/wiki/ChatGPT) |
@@ -237,6 +237,14 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Together AI](https://www.together.ai/)** | Cloud platform for running and fine-tuning AI models. | ❌ | ❌ | 🔌 API | [Jun 2022](https://canvasbusinessmodel.com/blogs/brief-history/together-ai-brief-history) |
 | **[Amazon Bedrock](https://aws.amazon.com/bedrock/)** (by AWS) | Managed service for accessing foundation models via API. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Sep 2023](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available/) |
 | **[Microsoft Foundry](https://ai.azure.com/)** (by Microsoft) | Platform for building and deploying AI applications. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Nov 2024](https://azure.microsoft.com/en-us/blog/the-next-wave-of-azure-innovation-azure-ai-foundry-intelligent-data-and-more/) |
+
+⬆️ [Back to Contents](#contents)
+
+## Model Performance
+
+| Project | Description | Open-Source | GitHub | Type | Released |
+|---------|-------------|-------------|--------|------|----------|
+| **[LMArena](https://lmarena.ai/)** | LLM evaluation platform with crowdsourced benchmarking. | ✅ | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) (⭐️ ~39.3k) | 🌍 Web App | [May 2023](https://lmsys.org/blog/2023-05-03-arena/) |
 
 ⬆️ [Back to Contents](#contents)
 
