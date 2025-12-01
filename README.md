@@ -1,6 +1,6 @@
 # Agentic Index: General Projects
 
-![Last Updated](https://img.shields.io/date/1764589417?label=✅%20Last%20AI%20Update&color=success)
+![Last Updated](https://img.shields.io/date/1764593916?label=✅%20Last%20AI%20Update&color=success)
 
 Living document listing projects in the agentic AI world, organised across several categories.
 
@@ -34,6 +34,7 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
+| **[LMArena](https://lmarena.ai/)** | LLM evaluation platform with crowdsourced benchmarking. | ✅ | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) (⭐️ ~39.3k) | 🌍 Web App | [May 2023](https://lmsys.org/blog/2023-05-03-arena/) |
 | **[HuggingChat](https://huggingface.co/chat/)** (by Hugging Face) | Open-source chatbot interface. | ✅ | [huggingface/chat-ui](https://github.com/huggingface/chat-ui) (⭐️ ~10.3k) | 🌍 Web App | [Apr 2023](https://huggingface.co/spaces/huggingchat/chat-ui/discussions/747) |
 | **[Character.ai](https://character.ai/)** | Chatbot platform for customizable AI characters. | ❌ | ❌ | 🌍 Web App | [Sep 2022](https://en.wikipedia.org/wiki/Character.ai) |
 | **[ChatGPT](https://chatgpt.com/)** (by OpenAI) | Conversational AI assistant. | ❌ | ❌ | 🌍 Web App | [Nov 2022](https://en.wikipedia.org/wiki/ChatGPT) |
@@ -44,8 +45,6 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Grok](https://x.ai/grok)** (by xAI) | Conversational AI with real-time X integration. | ❌ | ❌ | 🌍 Web App | [Nov 2023](https://en.wikipedia.org/wiki/Grok_(chatbot)) |
 | **[Meta AI](https://www.meta.ai/)** (by Meta) | Conversational AI assistant. | ❌ | ❌ | 🌍 Web App | [Apr 2024](https://about.fb.com/news/2024/04/meta-ai-assistant-built-with-llama-3/) |
 | **[Le Chat](https://chat.mistral.ai/chat)** (by Mistral AI) | Conversational AI assistant. | ❌ | ❌ | 🌍 Web App | [Feb 2025](https://mistral.ai/en/news/all-new-le-chat) |
-
-- https://lmarena.ai/
 
 ⬆️ [Back to Contents](#contents)
 
@@ -260,7 +259,7 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[MemOS](https://github.com/MemTensor/MemOS)** | Memory operating system for LLMs. | ✅ | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) (⭐️ ~3.2k) | 🧰 SDK | [Jul 2025](https://github.com/MemTensor/MemOS/releases) |
 | **[Acontext](https://acontext.io/)** | Context data platform for AI agents. | ✅ | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) (⭐️ ~1.1k) | 🧰 SDK | [Jul 2025](https://github.com/memodb-io/Acontext) |
 | **[AgentEvolver](https://github.com/modelscope/AgentEvolver)** | Self-evolving training framework for AI agents. | ✅ | [modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver) (⭐️ ~750) | 🧰 SDK | [Nov 2025](https://github.com/modelscope/AgentEvolver) |
-| **[General Agentic Memory](https://github.com/VectorSpaceLab/general-agentic-memory)** | General-purpose memory system for AI agents. | ✅ | [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) (⭐️ ~550) | 🧰 SDK | [Nov 2025](https://github.com/VectorSpaceLab/general-agentic-memory) |
+| **[General Agentic Memory](https://github.com/VectorSpaceLab/general-agentic-memory)** | General-purpose memory system for AI agents. | ✅ | [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) (⭐️ ~560) | 🧰 SDK | [Nov 2025](https://github.com/VectorSpaceLab/general-agentic-memory) |
 | **[Dreamina](https://dreamina.capcut.com/)** (by ByteDance) | AI image and video generator with editing tools. | ❌ | ❌ | 🌍 Web App | [May 2024](https://pandaily.com/capcuts-new-brand-dreamina-launches-ai-video-editing-feature) |
 | **[Kling AI](https://klingai.com/global/)** (by Kuaishou) | AI video generator for cinematic content. | ❌ | ❌ | 🌍 Web App | [Jun 2024](https://en.wikipedia.org/wiki/Kling_AI) |
 | **[Hailuo AI](https://hailuoai.video/)** (by MiniMax) | AI video generator from text and images. | ❌ | ❌ | 🌍 Web App | [Sep 2024](https://aimodelab.com/hailuo/) |
