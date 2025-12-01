@@ -15,7 +15,7 @@ Living document listing projects in the agentic AI world, organised across sever
 3. **[Image and Video](#image-and-video)**
 4. **[3D Modelling](#3d-modelling)**
 5. **[Audio](#audio)**
-6. **[Multi](#multi)**
+6. **[Multi-purpose](#multi-purpose)**
 7. **[Machine Learning](#machine-learning)**
 8. **[Security](#security)**
 9. **[Software Development](#software-development)**
@@ -77,7 +77,6 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[NightCafe](https://creator.nightcafe.studio/)** | AI art creator with multiple generation models. | ❌ | ❌ | 🌍 Web App | [Nov 2019](https://creator.nightcafe.studio/about-nightcafe) |
 | **[Grok Imagine](https://grok.com/imagine)** (by xAI) | AI image and video generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Aug 2025](https://mashable.com/article/xai-grok-imagine) |
 | **[Lovart](https://www.lovart.ai/)** | Design agent for generating images, videos, and brand assets. | ❌ | ❌ | 🌍 Web App | [May 2025](https://www.producthunt.com/products/lovart/launches) |
-| **[Dreamina](https://dreamina.capcut.com/)** (by ByteDance) | AI image and video generator with editing tools. | ❌ | ❌ | 🌍 Web App | [May 2024](https://pandaily.com/capcuts-new-brand-dreamina-launches-ai-video-editing-feature) |
 
 ⬆️ [Back to Contents](#contents)
 
@@ -87,6 +86,8 @@ Living document listing projects in the agentic AI world, organised across sever
 |---------|-------------|-------------|--------|------|----------|
 | **[Marble](https://marble.worldlabs.ai/)** (by World Labs) | 3D world generator from text, images, and video. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) |
 | **[Genie 3](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)** (by Google) | Interactive 3D world generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Aug 2025](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/) |
+
+- https://www.meshy.ai/
 
 ⬆️ [Back to Contents](#contents)
 
@@ -104,7 +105,7 @@ Living document listing projects in the agentic AI world, organised across sever
 
 ⬆️ [Back to Contents](#contents)
 
-## Multi
+## Multi-purpose
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
@@ -214,7 +215,6 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[Hugging Face](https://huggingface.co/)** | ML platform for models, datasets, and collaborative development. | ✅ | [huggingface](https://github.com/huggingface) | 🌍 Web App, 🔌 API, 🧰 SDK | [May 2016](https://en.wikipedia.org/wiki/Hugging_Face) |
 | **[Portkey](https://portkey.ai/)** | AI gateway for routing and observability across LLMs. | ✅ | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) (⭐️ ~10k) | 🔌 API, 🧰 SDK | [Jan 2023](https://siliconangle.com/2023/08/23/portkey-ai-closes-3m-seed-round-speed-ai-application-development/) |
 | **[models.dev](https://models.dev/)** | Open-source database of AI model specifications and pricing. | ✅ | [sst/models.dev](https://github.com/sst/models.dev) (⭐️ ~1.5k) | 🌍 Web App, 🔌 API | [Jun 2025](https://github.com/sst/models.dev) |
 | **[Vercel AI Gateway](https://vercel.com/ai-gateway)** (by Vercel) | Unified API for accessing multiple AI model providers. | ❌ | ❌ | 🔌 API | [Sep 2025](https://vercel.com/blog/ai-gateway) |
@@ -223,6 +223,17 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Eden AI](https://www.edenai.co/)** | Unified API for AI services across multiple providers. | ❌ | ❌ | 🔌 API | [2021](https://www.edenai.co/) |
 
 ⬆️ [Back to Contents](#contents)
+
+## Model Runtime
+
+- https://www.together.ai/
+- https://huggingface.co/
+- https://modal.com/
+- https://replicate.com/
+- https://www.runpod.io/
+- https://aws.amazon.com/bedrock/
+- https://cloud.google.com/vertex-ai
+- https://ai.azure.com/
 
 ## Supporting (Non-Agent)
 
@@ -248,5 +259,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[TRAE](https://www.trae.ai/)** (by ByteDance) | IDE with code generation and agent-based automation. | ❌ | ❌ | 📊 Desktop App | [Jan 2025](https://pandaily.com/bytedance-launches-trae-ai-coding-tool-for-developers) |
 | **[Hailuo AI](https://hailuoai.video/)** (by MiniMax) | AI video generator from text and images. | ❌ | ❌ | 🌍 Web App | [Sep 2024](https://aimodelab.com/hailuo/) |
 | **[Kling AI](https://klingai.com/global/)** (by Kuaishou) | AI video generator for cinematic content. | ❌ | ❌ | 🌍 Web App | [Jun 2024](https://en.wikipedia.org/wiki/Kling_AI) |
+| **[Dreamina](https://dreamina.capcut.com/)** (by ByteDance) | AI image and video generator with editing tools. | ❌ | ❌ | 🌍 Web App | [May 2024](https://pandaily.com/capcuts-new-brand-dreamina-launches-ai-video-editing-feature) |
+
+- https://3d.hunyuan.tencent.com/
 
 ⬆️ [Back to Contents](#contents)
