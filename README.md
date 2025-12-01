@@ -86,7 +86,7 @@ Living document listing projects in the agentic AI world, organised across sever
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
 | **[Marble](https://marble.worldlabs.ai/)** (by World Labs) | 3D world generator from text, images, and video. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://techcrunch.com/2025/11/12/fei-fei-lis-world-labs-speeds-up-the-world-model-race-with-marble-its-first-commercial-product/) |
-| **[Genie 3](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)** (by Google) | Interactive 3D world generator from text prompts. | ❌ | ❌ | 🔌 API | [Aug 2025](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/) |
+| **[Genie 3](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/)** (by Google) | Interactive 3D world generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Aug 2025](https://deepmind.google/blog/genie-3-a-new-frontier-for-world-models/) |
 
 ⬆️ [Back to Contents](#contents)
 
@@ -214,7 +214,7 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[Hugging Face](https://huggingface.co/)** | ML platform for models, datasets, and collaborative development. | ✅ | [huggingface](https://github.com/huggingface) (⭐️ ~various) | 🌍 Web App, 🔌 API, 🧰 SDK | [May 2016](https://en.wikipedia.org/wiki/Hugging_Face) |
+| **[Hugging Face](https://huggingface.co/)** | ML platform for models, datasets, and collaborative development. | ✅ | [huggingface](https://github.com/huggingface) | 🌍 Web App, 🔌 API, 🧰 SDK | [May 2016](https://en.wikipedia.org/wiki/Hugging_Face) |
 | **[Portkey](https://portkey.ai/)** | AI gateway for routing and observability across LLMs. | ✅ | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) (⭐️ ~10k) | 🔌 API, 🧰 SDK | [Jan 2023](https://siliconangle.com/2023/08/23/portkey-ai-closes-3m-seed-round-speed-ai-application-development/) |
 | **[models.dev](https://models.dev/)** | Open-source database of AI model specifications and pricing. | ✅ | [sst/models.dev](https://github.com/sst/models.dev) (⭐️ ~1.5k) | 🌍 Web App, 🔌 API | [Jun 2025](https://github.com/sst/models.dev) |
 | **[Vercel AI Gateway](https://vercel.com/ai-gateway)** (by Vercel) | Unified API for accessing multiple AI model providers. | ❌ | ❌ | 🔌 API | [Sep 2025](https://vercel.com/blog/ai-gateway) |
