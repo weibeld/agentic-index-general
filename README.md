@@ -83,7 +83,7 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Grok Imagine](https://grok.com/imagine)** (by xAI) | AI image and video generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Aug 2025](https://mashable.com/article/xai-grok-imagine) |
 | **[Mixboard](https://labs.google.com/mixboard/welcome)** (by Google) | AI image compositing tool for combining visual elements. | ❌ | ❌ | 🌍 Web App | [Nov 2024](https://blog.google/technology/ai/google-ai-updates-december-2024/) |
 | **[OpenArt](https://openart.ai/)** | AI art generator with multiple models and styles. | ❌ | ❌ | 🌍 Web App | [Aug 2022](https://www.crunchbase.com/organization/openart) |
-| **[Opus Clip](https://www.opus.pro/agent)** (by Opus) | AI agent for video repurposing and editing. | ❌ | ❌ | 🌍 Web App | [Mar 2023](https://techcrunch.com/2024/03/20/opus-clip-raises-50m-series-b/) |
+| **[Agent Opus](https://www.opus.pro/agent)** (by Opus) | AI agent for video repurposing and editing. | ❌ | ❌ | 🌍 Web App | [Mar 2023](https://techcrunch.com/2024/03/20/opus-clip-raises-50m-series-b/) |
 
 ⬆️ [Back to Contents](#contents)
 
@@ -116,8 +116,8 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[Agent-S](https://www.simular.ai/)** (by Simular) | Computer use agent that operates like a human. | ✅ | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) (⭐️ ~8.5k) | 🧰 SDK | [Oct 2024](https://github.com/simular-ai/Agent-S/releases) |
-| **[AGI Open](https://www.agiopen.org/)** | Computer use framework for building AI agents. | ❌ | ❌ | 🧰 SDK | Unknown |
+| **[Simular](https://www.simular.ai/)** | Computer use agent that operates like a human. | ✅ | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) (⭐️ ~8.5k) | 📊 Desktop App | [Oct 2024](https://github.com/simular-ai/Agent-S/releases) |
+| **[Lux](https://www.agiopen.org/)** (by OpenAGI) | Computer use agent for automating tasks. | ❌ | ❌ | 📊 Desktop App | Unknown |
 
 ⬆️ [Back to Contents](#contents)
 
