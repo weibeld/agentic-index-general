@@ -57,6 +57,23 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Superdesign](https://www.superdesign.dev)** | IDE extension for generating UI mockups and components. | ✅ | [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) (⭐️ ~5.4k) | 🧩 Plugin/Extension | [Jun 2025](https://github.com/superdesigndev/superdesign/releases) |
 | **[Stitch](https://stitch.withgoogle.com/)** (by Google) | Design tool that generates UI from prompts or sketches. | ❌ | ❌ | 🌍 Web App | [May 2025](https://techcrunch.com/2025/05/20/google-launches-stitch-an-ai-powered-tool-to-help-design-apps/) |
 
+- https://uizard.io/
+- https://uxpilot.ai/
+- https://www.figma.com/make/
+- https://sleek.design/
+- https://www.relume.io/
+- https://reweb.so/
+- https://www.onlook.com/
+- https://motiff.com/
+- https://www.magicpatterns.com/
+- https://www.magicpath.ai/
+- https://www.framer.com/
+- https://polymet.ai/
+- https://www.subframe.com/
+- https://www.aura.build/
+- https://21st.dev/magic
+- https://www.locofy.ai/
+
 ⬆️ [Back to Contents](#contents)
 
 ## Image and Video
@@ -84,6 +101,9 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Mixboard](https://labs.google.com/mixboard/welcome)** (by Google) | AI image compositing tool for combining visual elements. | ❌ | ❌ | 🌍 Web App | [Nov 2024](https://blog.google/technology/ai/google-ai-updates-december-2024/) |
 | **[OpenArt](https://openart.ai/)** | AI art generator with multiple models and styles. | ❌ | ❌ | 🌍 Web App | [Aug 2022](https://www.crunchbase.com/organization/openart) |
 | **[Agent Opus](https://www.opus.pro/agent)** (by Opus) | AI agent for video repurposing and editing. | ❌ | ❌ | 🌍 Web App | [Mar 2023](https://techcrunch.com/2024/03/20/opus-clip-raises-50m-series-b/) |
+
+- https://www.tutorial.ai/
+- https://www.creati.studio/
 
 ⬆️ [Back to Contents](#contents)
 
@@ -220,13 +240,12 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Zep](https://www.getzep.com/)** | Context engineering platform using temporal knowledge graphs. | ✅ | [getzep/zep](https://github.com/getzep/zep) (⭐️ ~3.8k) | 🧰 SDK, 🔌 API | [Apr 2023](https://github.com/getzep/zep) |
 | **[OpenMemory](https://openmemory.cavira.app/)** | Self-hosted long-term memory engine for AI agents. | ✅ | [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) (⭐️ ~2.4k) | 🧰 SDK | [Oct 2025](https://github.com/CaviraOSS/OpenMemory/releases) |
 | **[Prompt Tower](https://marketplace.visualstudio.com/items?itemName=backnotprop.prompt-tower)** | VS Code extension for building AI context from codebases. | ✅ | [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) (⭐️ ~320) | 🧩 Plugin/Extension | [May 2024](https://github.com/backnotprop/prompt-tower) |
-| **[Amazon Bedrock AgentCore Memory](https://aws.amazon.com/bedrock/agentcore/)** (by AWS) | Managed memory service for AI agents. | ❌ | ❌ | 🔌 API | [Oct 2025](https://aws.amazon.com/about-aws/whats-new/2025/10/amazon-bedrock-agentcore-available/) |
 | **[myNeutron](https://myneutron.ai/)** | Chrome extension for persistent AI memory across platforms. | ❌ | ❌ | 🧩 Plugin/Extension | [Oct 2025](https://coinedition.com/vanar-launches-myneutron-the-first-decentralized-ai-memory-layer-for-permanent-portable-ai-context/) |
 | **[Context Link](https://context-link.ai/)** | Context management tool linking docs and notes to AI assistants. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/context-link/launches) |
 
 ⬆️ [Back to Contents](#contents)
 
-## Workflows
+## Agent Workflows
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
@@ -263,6 +282,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Amazon Bedrock](https://aws.amazon.com/bedrock/)** (by AWS) | Managed service for accessing foundation models via API. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Sep 2023](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available/) |
 | **[Microsoft Foundry](https://ai.azure.com/)** (by Microsoft) | Platform for building and deploying AI applications. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Nov 2024](https://azure.microsoft.com/en-us/blog/the-next-wave-of-azure-innovation-azure-ai-foundry-intelligent-data-and-more/) |
 
+- https://www.foundrylocal.ai/
+
 ⬆️ [Back to Contents](#contents)
 
 ## Model Performance
@@ -270,6 +291,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
 | **[LMArena](https://lmarena.ai/)** | LLM evaluation platform with crowdsourced benchmarking. | ✅ | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) (⭐️ ~39.3k) | 🌍 Web App | [May 2023](https://lmsys.org/blog/2023-05-03-arena/) |
+
+- https://nof1.ai/
 
 ⬆️ [Back to Contents](#contents)
 
