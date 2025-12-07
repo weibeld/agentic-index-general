@@ -66,12 +66,12 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Aura](https://www.aura.build/)** | Design tool generating website and app interfaces. | ❌ | ❌ | 🌍 Web App | [Jun 2025](https://quasa.io/media/generate-any-app-interface-in-one-click-aura-is-now-publicly-available) |
 | **[Framer](https://www.framer.com/)** | Website builder with AI layout and component generation. | ❌ | ❌ | 🌍 Web App | [May 2025](https://www.businesswire.com/news/home/20250521574932/en/Framer-Launches-AI-Features-to-Supercharge-Web-Design-Democratizing-How-Stunning-Websites-are-Built) |
 | **[MagicPath](https://www.magicpath.ai/)** | Design tool with infinite canvas for UI prototyping. | ❌ | ❌ | 🌍 Web App | [Jul 2025](https://sergeichyrkov.com/blog/full-guide-to-magicpath-ai) |
-| **[UXPilot](https://uxpilot.ai/)** | UX/UI design tool for wireframing and prototyping. | ❌ | ❌ | 🌍 Web App | [Jul 2025](https://sergeichyrkov.com/blog/full-guide-to-magicpath-ai) |
+| **[UX Pilot](https://uxpilot.ai/)** | UX/UI design tool for wireframing and prototyping. | ❌ | ❌ | 🌍 Web App | [Jul 2025](https://sergeichyrkov.com/blog/full-guide-to-magicpath-ai) |
 | **[Stitch](https://stitch.withgoogle.com/)** (by Google) | Design tool that generates UI from prompts or sketches. | ❌ | ❌ | 🌍 Web App | [May 2025](https://techcrunch.com/2025/05/20/google-launches-stitch-an-ai-powered-tool-to-help-design-apps/) |
 | **[Sleek](https://sleek.design/)** | Mobile app design tool generating mockups from prompts. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/sleek-design/launches) |
 | **[Reweb](https://reweb.so/)** | UI design tool for Next.js with code export. | ❌ | ❌ | 🌍 Web App | [Feb 2025](https://aitoolsbee.com/tool/reweb/) |
-| **[MagicPatterns](https://www.magicpatterns.com/)** | Design tool for product teams with code generation. | ❌ | ❌ | 🌍 Web App | [2023](https://aipure.ai/products/magicpatterns) |
-| **[21st.dev Magic](https://21st.dev/magic)** | IDE component generator creating UI from prompts. | ❌ | ❌ | 🧩 Plugin/Extension | [Oct 2025](https://medevel.com/introducing-21st-dev-magic-ai-agent/) |
+| **[Magic Patterns](https://www.magicpatterns.com/)** | Design tool for product teams with code generation. | ❌ | ❌ | 🌍 Web App | [2023](https://aipure.ai/products/magicpatterns) |
+| **[Magic](https://21st.dev/magic)** (by 21st.dev) | IDE component generator creating UI from prompts. | ❌ | ❌ | 🧩 Plugin/Extension | [Oct 2025](https://medevel.com/introducing-21st-dev-magic-ai-agent/) |
 
 ⬆️ [Back to Contents](#contents)
 
@@ -100,7 +100,7 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Mixboard](https://labs.google.com/mixboard/welcome)** (by Google) | AI image compositing tool for combining visual elements. | ❌ | ❌ | 🌍 Web App | [Nov 2024](https://blog.google/technology/ai/google-ai-updates-december-2024/) |
 | **[OpenArt](https://openart.ai/)** | AI art generator with multiple models and styles. | ❌ | ❌ | 🌍 Web App | [Aug 2022](https://www.crunchbase.com/organization/openart) |
 | **[Agent Opus](https://www.opus.pro/agent)** (by Opus) | AI agent for video repurposing and editing. | ❌ | ❌ | 🌍 Web App | [Mar 2023](https://techcrunch.com/2024/03/20/opus-clip-raises-50m-series-b/) |
-| **[Tutorial](https://www.tutorial.ai/)** | Platform for creating tutorial videos with voiceovers. | ❌ | ❌ | 📊 Desktop App, 🌍 Web App | [2023](https://sourceforge.net/software/product/Tutorial-AI/) |
+| **[Tutorial Ai](https://www.tutorial.ai/)** | Platform for creating tutorial videos with voiceovers. | ❌ | ❌ | 📊 Desktop App, 🌍 Web App | [2023](https://sourceforge.net/software/product/Tutorial-AI/) |
 | **[Creati](https://www.creati.studio/)** | Video generation platform for marketing content. | ❌ | ❌ | 🌍 Web App | [Sep 2025](https://play.google.com/store/apps/details?id=org.ai.create.filter&hl=en-GB) |
 
 ⬆️ [Back to Contents](#contents)
@@ -271,6 +271,7 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
+| **[Foundry Local](https://www.foundrylocal.ai/)** (by Microsoft) | Runtime for running AI models locally on device. | ✅ | [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) (⭐️ ~1.2k) | 💻 CLI Tool, 📊 Desktop App | [May 2025](https://github.com/microsoft/Foundry-Local/releases) |
 | **[Hugging Face](https://huggingface.co/)** | AI platform for hosting, sharing, and deploying ML models. | ✅ | [huggingface](https://github.com/huggingface) (👥 ~56.3k followers) | 🌍 Web App, 🔌 API, 🧰 SDK | [Oct 2016](https://en.wikipedia.org/wiki/Hugging_Face) |
 | **[Replicate](https://replicate.com/)** | Cloud platform for running and hosting ML models via API. | ❌ | ❌ | 🔌 API | [2019](https://www.crunchbase.com/organization/replicate) |
 | **[Vertex AI](https://cloud.google.com/vertex-ai)** (by Google) | ML platform for training, deploying, and managing AI models. | ❌ | ❌ | 🔌 API, 🧰 SDK | [May 2021](https://cloud.google.com/blog/products/ai-machine-learning/google-cloud-launches-vertex-ai-unified-platform-for-mlops) |
@@ -279,7 +280,6 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Together AI](https://www.together.ai/)** | Cloud platform for running and fine-tuning AI models. | ❌ | ❌ | 🔌 API | [Jun 2022](https://canvasbusinessmodel.com/blogs/brief-history/together-ai-brief-history) |
 | **[Amazon Bedrock](https://aws.amazon.com/bedrock/)** (by AWS) | Managed service for accessing foundation models via API. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Sep 2023](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available/) |
 | **[Microsoft Foundry](https://ai.azure.com/)** (by Microsoft) | Platform for building and deploying AI applications. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Nov 2024](https://azure.microsoft.com/en-us/blog/the-next-wave-of-azure-innovation-azure-ai-foundry-intelligent-data-and-more/) |
-| **[Foundry Local](https://www.foundrylocal.ai/)** (by Microsoft) | Runtime for running AI models locally on device. | ✅ | [microsoft/Foundry-Local](https://github.com/microsoft/Foundry-Local) (⭐️ ~1.2k) | 💻 CLI Tool, 📊 Desktop App | [May 2025](https://github.com/microsoft/Foundry-Local/releases) |
 
 ⬆️ [Back to Contents](#contents)
 
@@ -288,7 +288,7 @@ Living document listing projects in the agentic AI world, organised across sever
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
 | **[LMArena](https://lmarena.ai/)** | LLM evaluation platform with crowdsourced benchmarking. | ✅ | [lm-sys/FastChat](https://github.com/lm-sys/FastChat) (⭐️ ~39.3k) | 🌍 Web App | [May 2023](https://lmsys.org/blog/2023-05-03-arena/) |
-| **[Nof1](https://nof1.ai/)** | Benchmarking platform testing AI models in live trading. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://incrypted.com/en/the-nof1-ai-team-has-launched-a-crypto-trading-competition-among-six-ai-models/) |
+| **[Alpha Arena](https://nof1.ai/)** | Benchmarking platform testing AI models in live trading. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://incrypted.com/en/the-nof1-ai-team-has-launched-a-crypto-trading-competition-among-six-ai-models/) |
 
 ⬆️ [Back to Contents](#contents)
 
