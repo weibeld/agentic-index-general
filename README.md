@@ -181,7 +181,7 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[Data Formulator](https://github.com/microsoft/data-formulator)** (by Microsoft) | Tool for creating data visualizations with AI agents. | ✅ | [microsoft/data-formulator](https://github.com/microsoft/data-formulator) (⭐️ ~14.4k) | 🌍 Web App | [Jun 2024](https://github.com/microsoft/data-formulator/releases) |
+| **[Data Formulator](https://github.com/microsoft/data-formulator)** (by Microsoft) | Tool for creating data visualizations with AI agents. | ✅ | [microsoft/data-formulator](https://github.com/microsoft/data-formulator) (⭐️ ~14.5k) | 🌍 Web App | [Jun 2024](https://github.com/microsoft/data-formulator/releases) |
 | **[Sheet0](https://www.sheet0.com/)** | Spreadsheet agent for automated data collection and analysis. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/sheet0) |
 
 ⬆️ [Back to Contents](#contents)
@@ -220,7 +220,7 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[CrewAI](https://www.crewai.com/)** | Framework for orchestrating AI agents. | ✅ | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) (⭐️ ~41k) | 🧰 SDK | [Oct 2023](https://github.com/crewAIInc/crewAI/releases) |
+| **[CrewAI](https://www.crewai.com/)** | Framework for orchestrating AI agents. | ✅ | [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) (⭐️ ~41.1k) | 🧰 SDK | [Oct 2023](https://github.com/crewAIInc/crewAI/releases) |
 | **[Swarms](https://www.swarms.ai/)** | Framework for building and deploying agent systems. | ✅ | [kyegomez/swarms](https://github.com/kyegomez/swarms) (⭐️ ~5.5k) | 🧰 SDK | [Nov 2023](https://github.com/kyegomez/swarms/releases) |
 | **[OpenAgents](https://openagents.org/)** | Platform for building networks of collaborative AI agents. | ✅ | [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) (⭐️ ~4.6k) | 🌍 Web App | [Oct 2023](https://github.com/xlang-ai/OpenAgents) |
 | **[Eigent](https://www.eigent.ai/)** (by CAMEL-AI) | Desktop app for building and managing agent workforces. | ✅ | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) (⭐️ ~2.5k) | 📊 Desktop App | [Jul 2025](https://github.com/eigent-ai/eigent/releases) |
@@ -233,7 +233,7 @@ Living document listing projects in the agentic AI world, organised across sever
 |---------|-------------|-------------|--------|------|----------|
 | **[Mem0](https://mem0.ai/)** | Memory layer for AI agents. | ✅ | [mem0ai/mem0](https://github.com/mem0ai/mem0) (⭐️ ~43.9k) | 🧰 SDK | [Mar 2025](https://github.com/mem0ai/mem0/releases) |
 | **[Supermemory](https://supermemory.ai/)** | Memory engine for AI apps with web app and browser extension. | ✅ | [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) (⭐️ ~13.7k) | 🌍 Web App, 🧩 Plugin/Extension, 🔌 API | [Oct 2025](https://techcrunch.com/2025/10/06/a-19-year-old-nabs-backing-from-google-execs-for-his-ai-memory-startup-supermemory/) |
-| **[Cognee](https://www.cognee.ai/)** | Memory engine using knowledge graphs and vector search. | ✅ | [topoteretes/cognee](https://github.com/topoteretes/cognee) (⭐️ ~9.7k) | 🧰 SDK | [Mar 2024](https://github.com/topoteretes/cognee/releases) |
+| **[Cognee](https://www.cognee.ai/)** | Memory engine using knowledge graphs and vector search. | ✅ | [topoteretes/cognee](https://github.com/topoteretes/cognee) (⭐️ ~10k) | 🧰 SDK | [Mar 2024](https://github.com/topoteretes/cognee/releases) |
 | **[Memori](https://memorilabs.ai/)** | Memory engine for LLMs and AI agents. | ✅ | [GibsonAI/Memori](https://github.com/GibsonAI/Memori) (⭐️ ~8.5k) | 🧰 SDK | [Aug 2025](https://github.com/GibsonAI/Memori/releases) |
 | **[Zep](https://www.getzep.com/)** | Context engineering platform using temporal knowledge graphs. | ✅ | [getzep/zep](https://github.com/getzep/zep) (⭐️ ~3.8k) | 🧰 SDK, 🔌 API | [Apr 2023](https://github.com/getzep/zep) |
 | **[OpenMemory](https://openmemory.cavira.app/)** | Self-hosted long-term memory engine for AI agents. | ✅ | [CaviraOSS/OpenMemory](https://github.com/CaviraOSS/OpenMemory) (⭐️ ~2.4k) | 🧰 SDK | [Oct 2025](https://github.com/CaviraOSS/OpenMemory/releases) |
@@ -259,7 +259,7 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[Portkey](https://portkey.ai/)** | AI gateway for routing and observability across LLMs. | ✅ | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) (⭐️ ~10k) | 🔌 API, 🧰 SDK | [Jan 2023](https://siliconangle.com/2023/08/23/portkey-ai-closes-3m-seed-round-speed-ai-application-development/) |
+| **[Portkey](https://portkey.ai/)** | AI gateway for routing and observability across LLMs. | ✅ | [Portkey-AI/gateway](https://github.com/Portkey-AI/gateway) (⭐️ ~10.1k) | 🔌 API, 🧰 SDK | [Jan 2023](https://siliconangle.com/2023/08/23/portkey-ai-closes-3m-seed-round-speed-ai-application-development/) |
 | **[Eden AI](https://www.edenai.co/)** | Unified API for AI services across multiple providers. | ❌ | ❌ | 🔌 API | [2021](https://www.edenai.co/) |
 | **[OpenRouter](https://openrouter.ai/)** | Unified API for routing requests to multiple LLM providers. | ❌ | ❌ | 🔌 API | [Feb 2023](https://sacra.com/research/openrouter-100m-gmv/) |
 | **[Requesty](https://www.requesty.ai/)** | LLM gateway with routing, failover, and governance. | ❌ | ❌ | 🔌 API | [2023](https://pitchbook.com/profiles/company/588942-91) |
@@ -296,8 +296,8 @@ Living document listing projects in the agentic AI world, organised across sever
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
-| **[Firecrawl](https://www.firecrawl.dev/)** | Web scraping API that converts websites to LLM-ready data. | ✅ | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (⭐️ ~69.1k) | 🔌 API | [Apr 2024](https://github.com/firecrawl/firecrawl) |
-| **[TOON](https://toonformat.dev/)** | Token-efficient serialization format for LLM prompts. | ✅ | [toon-format/toon](https://github.com/toon-format/toon) (⭐️ ~20.2k) | 🧰 SDK | [Oct 2025](https://github.com/toon-format/toon/releases) |
+| **[Firecrawl](https://www.firecrawl.dev/)** | Web scraping API that converts websites to LLM-ready data. | ✅ | [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) (⭐️ ~69.3k) | 🔌 API | [Apr 2024](https://github.com/firecrawl/firecrawl) |
+| **[TOON](https://toonformat.dev/)** | Token-efficient serialization format for LLM prompts. | ✅ | [toon-format/toon](https://github.com/toon-format/toon) (⭐️ ~20.3k) | 🧰 SDK | [Oct 2025](https://github.com/toon-format/toon/releases) |
 | **[models.dev](https://models.dev/)** | Open-source database of AI model specifications and pricing. | ✅ | [sst/models.dev](https://github.com/sst/models.dev) (⭐️ ~1.6k) | 🌍 Web App, 🔌 API | [Jun 2025](https://github.com/sst/models.dev) |
 
 ⬆️ [Back to Contents](#contents)
@@ -308,10 +308,10 @@ Living document listing projects in the agentic AI world, organised across sever
 |---------|-------------|-------------|--------|------|----------|
 | **[Wan](https://wan.video/)** (by Alibaba) | AI video generator from text and images. | ✅ | [Wan-Video/Wan2.1](https://github.com/Wan-Video/Wan2.1) (⭐️ ~14.8k) | 🌍 Web App | [Feb 2025](https://domain.news/alibaba-launches-wan-2-1-ai-model-and-acquires-wan-video-domain-advancing-its-ai-strategy/) |
 | **[Hunyuan 3D](https://3d.hunyuan.tencent.com/)** (by Tencent) | AI 3D model generator from text and images. | ✅ | [Tencent-Hunyuan/Hunyuan3D-2](https://github.com/Tencent-Hunyuan/Hunyuan3D-2) (⭐️ ~12.6k) | 🌍 Web App | [Nov 2024](https://github.com/Tencent-Hunyuan/Hunyuan3D-1) |
-| **[MemOS](https://github.com/MemTensor/MemOS)** | Memory operating system for LLMs. | ✅ | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) (⭐️ ~3.3k) | 🧰 SDK | [Jul 2025](https://github.com/MemTensor/MemOS/releases) |
-| **[Acontext](https://acontext.io/)** | Context data platform for AI agents. | ✅ | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) (⭐️ ~1.4k) | 🧰 SDK | [Jul 2025](https://github.com/memodb-io/Acontext) |
-| **[AgentEvolver](https://github.com/modelscope/AgentEvolver)** | Self-evolving training framework for AI agents. | ✅ | [modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver) (⭐️ ~780) | 🧰 SDK | [Nov 2025](https://github.com/modelscope/AgentEvolver) |
-| **[General Agentic Memory](https://github.com/VectorSpaceLab/general-agentic-memory)** | General-purpose memory system for AI agents. | ✅ | [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) (⭐️ ~660) | 🧰 SDK | [Nov 2025](https://github.com/VectorSpaceLab/general-agentic-memory) |
+| **[MemOS](https://github.com/MemTensor/MemOS)** | Memory operating system for LLMs. | ✅ | [MemTensor/MemOS](https://github.com/MemTensor/MemOS) (⭐️ ~3.4k) | 🧰 SDK | [Jul 2025](https://github.com/MemTensor/MemOS/releases) |
+| **[Acontext](https://acontext.io/)** | Context data platform for AI agents. | ✅ | [memodb-io/Acontext](https://github.com/memodb-io/Acontext) (⭐️ ~1.6k) | 🧰 SDK | [Jul 2025](https://github.com/memodb-io/Acontext) |
+| **[AgentEvolver](https://github.com/modelscope/AgentEvolver)** | Self-evolving training framework for AI agents. | ✅ | [modelscope/AgentEvolver](https://github.com/modelscope/AgentEvolver) (⭐️ ~800) | 🧰 SDK | [Nov 2025](https://github.com/modelscope/AgentEvolver) |
+| **[General Agentic Memory](https://github.com/VectorSpaceLab/general-agentic-memory)** | General-purpose memory system for AI agents. | ✅ | [VectorSpaceLab/general-agentic-memory](https://github.com/VectorSpaceLab/general-agentic-memory) (⭐️ ~690) | 🧰 SDK | [Nov 2025](https://github.com/VectorSpaceLab/general-agentic-memory) |
 | **[Dreamina](https://dreamina.capcut.com/)** (by ByteDance) | AI image and video generator with editing tools. | ❌ | ❌ | 🌍 Web App | [May 2024](https://pandaily.com/capcuts-new-brand-dreamina-launches-ai-video-editing-feature) |
 | **[Kling AI](https://klingai.com/global/)** (by Kuaishou) | AI video generator for cinematic content. | ❌ | ❌ | 🌍 Web App | [Jun 2024](https://en.wikipedia.org/wiki/Kling_AI) |
 | **[Hailuo AI](https://hailuoai.video/)** (by MiniMax) | AI video generator from text and images. | ❌ | ❌ | 🌍 Web App | [Sep 2024](https://aimodelab.com/hailuo/) |
