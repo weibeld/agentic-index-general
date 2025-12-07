@@ -26,7 +26,7 @@ Living document listing projects in the agentic AI world, organised across sever
 14. **[Web Browsers](#web-browsers)**
 15. **[Multi-Agent Orchestration](#multi-agent-orchestration)**
 16. **[Agent Memory/Context Engineering](#agent-memorycontext-engineering)**
-17. **[Workflows](#workflows)**
+17. **[Agent Workflows](#agent-workflows)**
 18. **[Model Aggregators](#model-aggregators)**
 19. **[Model Runtime](#model-runtime)**
 20. **[Model Performance](#model-performance)**
