@@ -103,6 +103,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Tutorial Ai](https://www.tutorial.ai/)** | Platform for creating tutorial videos with voiceovers. | ❌ | ❌ | 📊 Desktop App, 🌍 Web App | [2023](https://sourceforge.net/software/product/Tutorial-AI/) |
 | **[Creati](https://www.creati.studio/)** | Video generation platform for marketing content. | ❌ | ❌ | 🌍 Web App | [Sep 2025](https://play.google.com/store/apps/details?id=org.ai.create.filter&hl=en-GB) |
 
+- https://www.hedra.com/
+
 ⬆️ [Back to Contents](#contents)
 
 ## 3D Modelling
@@ -175,6 +177,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Propolis](https://propolis.tech/)** | Swarms of agents simulating users for testing apps. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://news.ycombinator.com/item?id=45762012) |
 | **[Codemaps](https://cognition.ai/blog/codemaps)** (by Cognition) | Visualise code bases for understanding and navigation. | ❌ | ❌ | 🧩 Plugin/Extension | [Nov 2025](https://cognition.ai/blog/codemaps) |
 
+- https://github.com/rsionnach/sloppylint
+
 ⬆️ [Back to Contents](#contents)
 
 ## Data Processing
@@ -225,6 +229,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[OpenAgents](https://openagents.org/)** | Platform for building networks of collaborative AI agents. | ✅ | [xlang-ai/OpenAgents](https://github.com/xlang-ai/OpenAgents) (⭐️ ~4.6k) | 🌍 Web App | [Oct 2023](https://github.com/xlang-ai/OpenAgents) |
 | **[Eigent](https://www.eigent.ai/)** (by CAMEL-AI) | Desktop app for building and managing agent workforces. | ✅ | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) (⭐️ ~2.5k) | 📊 Desktop App | [Jul 2025](https://github.com/eigent-ai/eigent/releases) |
 
+- https://www.vibekanban.com/
+
 ⬆️ [Back to Contents](#contents)
 
 ## Agent Memory/Context Engineering
@@ -240,6 +246,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Prompt Tower](https://marketplace.visualstudio.com/items?itemName=backnotprop.prompt-tower)** | VS Code extension for building AI context from codebases. | ✅ | [backnotprop/prompt-tower](https://github.com/backnotprop/prompt-tower) (⭐️ ~320) | 🧩 Plugin/Extension | [May 2024](https://github.com/backnotprop/prompt-tower) |
 | **[myNeutron](https://myneutron.ai/)** | Chrome extension for persistent AI memory across platforms. | ❌ | ❌ | 🧩 Plugin/Extension | [Oct 2025](https://coinedition.com/vanar-launches-myneutron-the-first-decentralized-ai-memory-layer-for-permanent-portable-ai-context/) |
 | **[Context Link](https://context-link.ai/)** | Context management tool linking docs and notes to AI assistants. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/context-link/launches) |
+
+- https://www.memoryplugin.com/
 
 ⬆️ [Back to Contents](#contents)
 
@@ -320,5 +328,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[CodeBanana](https://www.codebanana.com/en/home)** | Collaborative coding platform with real-time editing. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://www.producthunt.com/products/codebanana) |
 | **[Magic3D](https://www.magic3d.io/)** | AI 3D model generator from text and images. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://www.magic3d.io/) |
 | **[Vidi](https://www.vidi2.app/)** | AI video generation platform. | ❌ | ❌ | 🌍 Web App | Unknown |
+
+- https://github.com/666ghj/BettaFish
+- https://dw2283.github.io/memverse.ai/
 
 ⬆️ [Back to Contents](#contents)
