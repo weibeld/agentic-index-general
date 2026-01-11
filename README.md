@@ -73,6 +73,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Magic Patterns](https://www.magicpatterns.com/)** | Design tool for product teams with code generation. | ❌ | ❌ | 🌍 Web App | [2023](https://aipure.ai/products/magicpatterns) |
 | **[Magic](https://21st.dev/magic)** (by 21st.dev) | IDE component generator creating UI from prompts. | ❌ | ❌ | 🧩 Plugin/Extension | [Oct 2025](https://medevel.com/introducing-21st-dev-magic-ai-agent/) |
 
+- https://a2ui.org/
+
 ⬆️ [Back to Contents](#contents)
 
 ## Image and Video
@@ -129,6 +131,9 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[MusicFX](https://labs.google/fx/tools/music-fx)** (by Google) | AI music generator from text prompts. | ❌ | ❌ | 🌍 Web App | [Feb 2024](https://www.digitalmusicnews.com/2024/02/06/googles-musicfx-has-created-more-than-10-million-tracks/) |
 | **[Udio](https://www.udio.com/)** | AI music generator for songs with realistic vocals. | ❌ | ❌ | 🌍 Web App | [Apr 2024](https://en.wikipedia.org/wiki/Udio) |
 
+- https://labs.google/fx/tools/music-fx-dj
+- https://aidemos.meta.com/segment-anything
+
 ⬆️ [Back to Contents](#contents)
 
 ## Computer Use
@@ -137,6 +142,9 @@ Living document listing projects in the agentic AI world, organised across sever
 |---------|-------------|-------------|--------|------|----------|
 | **[Simular](https://www.simular.ai/)** | Computer use agent that operates like a human. | ✅ | [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) (⭐️ ~8.6k) | 📊 Desktop App | [Oct 2024](https://github.com/simular-ai/Agent-S/releases) |
 | **[Lux](https://www.agiopen.org/)** (by OpenAGI) | Computer use agent for automating tasks. | ❌ | ❌ | 📊 Desktop App | Unknown |
+
+- https://www.heypanda.org/
+- https://www.agi.app/
 
 ⬆️ [Back to Contents](#contents)
 
@@ -177,14 +185,27 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[sloppylint](https://github.com/rsionnach/sloppylint)** | Python linter detecting AI-generated code patterns. | ✅ | [rsionnach/sloppylint](https://github.com/rsionnach/sloppylint) (⭐️ ~34) | 💻 CLI Tool | [Dec 2024](https://github.com/rsionnach/sloppylint/releases) |
 | **[Codemaps](https://cognition.ai/blog/codemaps)** (by Cognition) | Visualise code bases for understanding and navigation. | ❌ | ❌ | 🧩 Plugin/Extension | [Nov 2025](https://cognition.ai/blog/codemaps) |
 
+- https://context7.com/
+
 ⬆️ [Back to Contents](#contents)
 
-## Data Processing
+## Software Development Methodology
+
+- https://github.com/gemini-cli-extensions/conductor
+- https://github.com/github/spec-kit
+- https://github.com/bmad-code-org/BMAD-METHOD
+- https://openspec.dev/
+- https://specpulse.xyz/
+- https://www.task-master.dev/
+
+## Data Retrieval and Processing
 
 | Project | Description | Open-Source | GitHub | Type | Released |
 |---------|-------------|-------------|--------|------|----------|
 | **[Data Formulator](https://github.com/microsoft/data-formulator)** (by Microsoft) | Tool for creating data visualizations with AI agents. | ✅ | [microsoft/data-formulator](https://github.com/microsoft/data-formulator) (⭐️ ~14.5k) | 🌍 Web App | [Jun 2024](https://github.com/microsoft/data-formulator/releases) |
 | **[Sheet0](https://www.sheet0.com/)** | Spreadsheet agent for automated data collection and analysis. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/sheet0) |
+
+- https://www.rtrvr.ai/
 
 ⬆️ [Back to Contents](#contents)
 
@@ -245,6 +266,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Context Link](https://context-link.ai/)** | Context management tool linking docs and notes to AI assistants. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://www.producthunt.com/products/context-link/launches) |
 | **[MemoryPlugin](https://www.memoryplugin.com/)** | Cross-platform memory layer for AI assistants. | ❌ | ❌ | 🧩 Plugin/Extension | [May 2024](https://theresanaiforthat.com/ai/memoryplugin/) |
 
+- https://claude-mem.ai/
+
 ⬆️ [Back to Contents](#contents)
 
 ## Agent Workflows
@@ -256,6 +279,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Opal](https://opal.google/)** (by Google) | No-code app builder for AI workflow automation. | ❌ | ❌ | 🌍 Web App | [Jul 2025](https://developers.google.com/opal) |
 | **[Workflow Builder](https://workflow-builder.dev/)** (by Vercel) | Visual workflow automation platform with AI generation. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://vercel.com/blog/workflow-builder-build-your-own-workflow-automation-platform) |
 | **[Google Workspace Studio](https://workspace.google.com/studio/)** (by Google) | Workflow automation platform with AI agents for Workspace. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://workspace.google.com/blog/product-announcements/introducing-google-workspace-studio-agents-for-everyday-work) |
+
+- https://elevenlabs.io/agents
 
 ⬆️ [Back to Contents](#contents)
 
@@ -284,6 +309,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Together AI](https://www.together.ai/)** | Cloud platform for running and fine-tuning AI models. | ❌ | ❌ | 🔌 API | [Jun 2022](https://canvasbusinessmodel.com/blogs/brief-history/together-ai-brief-history) |
 | **[Amazon Bedrock](https://aws.amazon.com/bedrock/)** (by AWS) | Managed service for accessing foundation models via API. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Sep 2023](https://aws.amazon.com/about-aws/whats-new/2023/09/amazon-bedrock-generally-available/) |
 | **[Microsoft Foundry](https://ai.azure.com/)** (by Microsoft) | Platform for building and deploying AI applications. | ❌ | ❌ | 🔌 API, 🧰 SDK | [Nov 2024](https://azure.microsoft.com/en-us/blog/the-next-wave-of-azure-innovation-azure-ai-foundry-intelligent-data-and-more/) |
+
+- https://aws.amazon.com/nova/forge/
 
 ⬆️ [Back to Contents](#contents)
 
@@ -326,5 +353,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[CodeBanana](https://www.codebanana.com/en/home)** | Collaborative coding platform with real-time editing. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://www.producthunt.com/products/codebanana) |
 | **[Magic3D](https://www.magic3d.io/)** | AI 3D model generator from text and images. | ❌ | ❌ | 🌍 Web App | [Oct 2025](https://www.magic3d.io/) |
 | **[Vidi](https://www.vidi2.app/)** | AI video generation platform. | ❌ | ❌ | 🌍 Web App | Unknown |
+
+- https://github.com/zai-org/Open-AutoGLM/
+- https://chat.z.ai/
 
 ⬆️ [Back to Contents](#contents)
