@@ -145,6 +145,7 @@ Living document listing projects in the agentic AI world, organised across sever
 
 - https://www.heypanda.org/
 - https://www.agi.app/
+- https://www.peekaboo.boo/
 
 ⬆️ [Back to Contents](#contents)
 
@@ -172,6 +173,8 @@ Living document listing projects in the agentic AI world, organised across sever
 |---------|-------------|-------------|--------|------|----------|
 | **[HackGPT](https://github.com/yashab-cyber/HackGpt)** | Penetration testing platform for security assessments. | ✅ | [yashab-cyber/HackGpt](https://github.com/yashab-cyber/HackGpt) (⭐️ ~650) | 💻 CLI Tool, 🔌 API, 🌍 Web App | [Aug 2025](https://github.com/yashab-cyber/HackGpt) |
 
+- https://vibeappscanner.com/
+
 ⬆️ [Back to Contents](#contents)
 
 ## Software Development
@@ -186,6 +189,7 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Codemaps](https://cognition.ai/blog/codemaps)** (by Cognition) | Visualise code bases for understanding and navigation. | ❌ | ❌ | 🧩 Plugin/Extension | [Nov 2025](https://cognition.ai/blog/codemaps) |
 
 - https://context7.com/
+- https://github.com/swark-io/swark
 
 ⬆️ [Back to Contents](#contents)
 
@@ -249,6 +253,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Vibe Kanban](https://www.vibekanban.com/)** | Kanban board for managing AI coding agents. | ✅ | [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) (⭐️ ~6.5k) | 📊 Desktop App | [Jun 2025](https://github.com/BloopAI/vibe-kanban/releases) |
 | **[Eigent](https://www.eigent.ai/)** (by CAMEL-AI) | Desktop app for building and managing agent workforces. | ✅ | [eigent-ai/eigent](https://github.com/eigent-ai/eigent) (⭐️ ~2.5k) | 📊 Desktop App | [Jul 2025](https://github.com/eigent-ai/eigent/releases) |
 
+- https://github.com/covibes/zeroshot
+
 ⬆️ [Back to Contents](#contents)
 
 ## Agent Memory/Context Engineering
@@ -281,6 +287,8 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Google Workspace Studio](https://workspace.google.com/studio/)** (by Google) | Workflow automation platform with AI agents for Workspace. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://workspace.google.com/blog/product-announcements/introducing-google-workspace-studio-agents-for-everyday-work) |
 
 - https://elevenlabs.io/agents
+- https://connex.ai/
+- https://www.openwork.me/
 
 ⬆️ [Back to Contents](#contents)
 
