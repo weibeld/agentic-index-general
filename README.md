@@ -284,7 +284,15 @@ Living document listing projects in the agentic AI world, organised across sever
 | **[Workflow Builder](https://workflow-builder.dev/)** (by Vercel) | Visual workflow automation platform with AI generation. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://vercel.com/blog/workflow-builder-build-your-own-workflow-automation-platform) |
 | **[Google Workspace Studio](https://workspace.google.com/studio/)** (by Google) | Workflow automation platform with AI agents for Workspace. | ❌ | ❌ | 🌍 Web App | [Nov 2025](https://workspace.google.com/blog/product-announcements/introducing-google-workspace-studio-agents-for-everyday-work) |
 
+- https://elevenlabs.io/agents
+- https://connex.ai/
+
 ⬆️ [Back to Contents](#contents)
+
+## Assistants
+
+- https://www.openwork.me/
+- https://www.molt.bot/
 
 ## Model Aggregators
 
