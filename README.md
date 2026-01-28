@@ -288,9 +288,13 @@ Living document listing projects in the agentic AI world, organised across sever
 
 - https://elevenlabs.io/agents
 - https://connex.ai/
-- https://www.openwork.me/
 
 ⬆️ [Back to Contents](#contents)
+
+## Assistants
+
+- https://www.openwork.me/
+- https://www.molt.bot/
 
 ## Model Aggregators
 
