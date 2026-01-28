@@ -1,6 +1,6 @@
 # Agentic Index: General Projects
 
-![Last Updated](https://img.shields.io/date/1769597773?label=✅%20Last%20AI%20Update&color=success)
+![Last Updated](https://img.shields.io/date/1769558400?label=✅%20Last%20AI%20Update&color=success)
 
 Living document listing projects in the agentic AI world, organised across several categories.
 
